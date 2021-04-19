@@ -76,6 +76,21 @@ content:
             in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
             pharmacology, immunohistochemistry and confocal imaging. 
 
+      - layout: left
+        title: Schmitz lab, Charité-Universitätsmedizin Berlin
+        link: https://schmitz.neurocure.de/
+        # link_text: boringcompany.com
+        sub_title: PhD student
+        caption: January 2016 - 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            My PhD project is focused on serotonergic modulation of slow oscillations in entorhinal cortex, it led to the publication 
+            "Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex (Elife, 2021)". 
+            We identified a novel mechanism by which serotonin is able to alter cortical network activity. During the course of this project I employed the following techniques: 
+            in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
+            pharmacology, immunohistochemistry and confocal imaging.       
+
       - layout: right
         title: Poulet lab, Max Delbrück Center (MDC)
         link: https://www.mdc-berlin.de/poulet
