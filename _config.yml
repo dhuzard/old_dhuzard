@@ -29,8 +29,10 @@ about_content: |
   Currently my main focus is <mark>serotonin</mark>, in vivo recording with high-density probes (Neuropixel) and Machine Learning in the context of neural decoding.
   I have experience working with:
   <mark>Python</mark>,
-  <mark>Tensorflow</mark>
-  <mark>Matlab</mark> and
+  <mark>Tensorflow</mark>,
+  <mark>Matlab</mark>,
+  <mark>Max/MSP</mark>,
+  <mark>Pure Data</mark> and
   <mark>git</mark>.
 
 # Projects Section
@@ -45,7 +47,7 @@ about_content: |
 # More Section
 more_title: Publications
 more_content: |
-  **Somatostatin interneurons activated by 5-HT2A receptor suppress slow oscillations in medial entorhinal cortex.** Elife. 2021 Mar 31;10:e66960. doi: 10.7554/eLife.66960. PMID: 33789079; PMCID: PMC8016478.\
+  **Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex.** Elife. 2021 Mar 31;10:e66960. doi: 10.7554/eLife.66960. PMID: 33789079; PMCID: PMC8016478.\
   de Filippo R<sup>*</sup>, Rost BR, Stumpf A, Cooper C, Tukker JJ, Harms C, Beed P, Schmitz D<sup>*</sup>.\
   <sup>*</sup> = corresponding authors
 
@@ -57,6 +59,14 @@ more_content: |
   **Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization of PSD-95.** J Neurosci. 2016 May 18;36(20):5437-47. doi: 10.1523/JNEUROSCI.3124-15.2016. PMID: 27194325; PMCID: PMC6601765.\
   Antonelli R, De Filippo R, Middei S, Stancheva S, Pastore B, Ammassari-Teule M, Barberis A, Cherubini E, Zacchi P. 
 
+more_title: Conferences
+more_content: |
+  **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ \
+  **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
+
+more_title: Awards
+more_content: |
+  **2015** Neurocure fellowship
 
 # Footer
 footer_show_references: false
