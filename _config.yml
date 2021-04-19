@@ -76,8 +76,8 @@ content:
             in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
             pharmacology, immunohistochemistry and confocal imaging.    
 
-        layout: right
-      - title: Poulet lab, Max Delbrück Center (MDC)
+      - layout: right
+        title: Poulet lab, Max Delbrück Center (MDC)
         link: https://www.mdc-berlin.de/poulet
          # link_text: boringcompany.com
         sub_title: PhD student
@@ -85,9 +85,9 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             I worked under the supervision of Nevena Milenkovic investigating temperature perception in mice, a follow-up to her work 
-          "A somatosensory circuit for cooling perception in mice (Nature Neuroscience, 2014)". I have performed in vivo whole cell patch clamp recording from anesthetized mice,
-          thalamic drug injections and behavioral training.
+            I worked under the supervision of Nevena Milenkovic investigating temperature perception in mice, a follow-up to her work 
+            "A somatosensory circuit for cooling perception in mice (Nature Neuroscience, 2014)". I have performed in vivo whole cell patch clamp recording from anesthetized mice,
+            thalamic drug injections and behavioral training.
 
       - layout: left
         title: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
