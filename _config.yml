@@ -48,7 +48,7 @@ orcid_username: 0000-0002-4085-9114
 about_profile_image: images/profile.png
 about_content: |
   Hi, my name is Roberto De Filippo, I am a neuroscientist interested in neuromodulation and sensory perception. 
-  Currently my main focus is <mark>serotonin</mark>, in vivo recording with high-density probes (Neuropixel) and Machine Learning in the context of neural decoding.
+  Currently my main focus is <mark>serotonin</mark>, in vivo recordings with high-density probes (Neuropixel) and Machine Learning in the context of neural decoding.
   I have experience working with:
   <mark>Python</mark>,
   <mark>Matlab</mark>,
