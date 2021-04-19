@@ -99,12 +99,12 @@ content:
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
                 During my lab rotation in the Brecht lab I assisted Dr. Shimpei Ishiyama in his project later published as 
-          "Neural correlates of ticklishness in the rat somatosensory cortex (Science, 2016)".
-          The aim of his project was to understand the neurophysiological basis of ticklishness. 
-          My work was to assess if rats, like humans, have body areas more susceptible to tickling compared to others. 
-          A Matlab-based system was used to record 50-kHz USVs (ultra-sonic vocalization). 
-          USVs emission rate was used as a measure of ticklishness. 
-          In addition to this psychophysics experiment I assisted to in vivo tetrodes recording and electrical microstimulation in S1. 
+                "Neural correlates of ticklishness in the rat somatosensory cortex (Science, 2016)".
+                The aim of his project was to understand the neurophysiological basis of ticklishness. 
+                My work was to assess if rats, like humans, have body areas more susceptible to tickling compared to others. 
+                A Matlab-based system was used to record 50-kHz USVs (ultra-sonic vocalization). 
+                USVs emission rate was used as a measure of ticklishness. 
+                In addition to this psychophysics experiment I assisted to in vivo tetrodes recording and electrical microstimulation in S1. 
 
       - layout: right
         title: Cherubini lab, International School for Advanced Studies (SISSA).
@@ -116,12 +116,12 @@ content:
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
                 I did my internship in Professor Cherubini laboratory working as an electrophysiologist. 
-          My thesis focused on the cis-trans isomerase Pin1 role in excitatory synaptic signaling. 
-          I recorded, using the whole-cell configuration of the patch clamp technique, CA1 pyramidal cells in mouse brain slices 
-          while stimulating the Schaﬀer collaterals and applying selective blockers of GABAA, AMPA and NMDA receptors.
-           I performed post-hoc morphological reconstruction on a subset of neurons using biocytin and confocal microscopy. 
-           My experiments contributed to the publication of “Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization 
-           of PSD-95 (Journal of Neuroscience, 2016)”
+                My thesis focused on the cis-trans isomerase Pin1 role in excitatory synaptic signaling. 
+                I recorded, using the whole-cell configuration of the patch clamp technique, CA1 pyramidal cells in mouse brain slices 
+                while stimulating the Schaﬀer collaterals and applying selective blockers of GABAA, AMPA and NMDA receptors.
+                I performed post-hoc morphological reconstruction on a subset of neurons using biocytin and confocal microscopy. 
+                My experiments contributed to the publication of “Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization 
+                of PSD-95 (Journal of Neuroscience, 2016)”
          
          
 
