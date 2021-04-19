@@ -193,9 +193,9 @@ content:
           <img src="/images/geyser.gif " width="300" title="geysers"/>
         </p>
         <p style="text-align:center">
-          <img src="/images/Arduino_UNO_WIFI_30117100-01.jpeg " width="300" title="arduinos"/>
-          <img src="/images/V2Y0.gif " width="300" title="cinema"/>
-          <img src="/images/philosophy.jpeg " width="300" title="philosophy"/>
+          <img src="/images/Arduino_UNO_WIFI_30117100-01.jpeg " width="330" title="arduinos"/>
+          <img src="/images/V2Y0.gif " width="330" title="cinema"/>
+          <img src="/images/philosophy.jpeg " width="330" title="philosophy"/>
         </p>
 # Footer
 footer_show_references: true
