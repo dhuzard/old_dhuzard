@@ -131,7 +131,7 @@ content:
       - layout: top-middle
         title: University of Trieste
         caption: October 2011 - October 2013
-        sub_title: Bachelor's degree in Biology
+        sub_title: Bachelor's degree in Biology (*103/110*)
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         # description: | # this will include new lines to allow paragraphs
@@ -142,7 +142,7 @@ content:
       - layout: top-middle
         title: University of Milan
         caption: October 2008 - October 2011
-        sub_title: Bachelor's degree in Biology
+        sub_title: Bachelor's degree in Biology (*110/110 cum laude*)
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         # description: | # this will include new lines to allow paragraphs
