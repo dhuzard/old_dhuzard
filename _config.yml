@@ -51,8 +51,8 @@ about_content: |
   Currently my main focus is <mark>serotonin</mark>, in vivo recording with high-density probes (Neuropixel) and Machine Learning in the context of neural decoding.
   I have experience working with:
   <mark>Python</mark>,
-  <mark>Tensorflow</mark>,
   <mark>Matlab</mark>,
+  <mark>Tensorflow</mark>,
   <mark>Max/MSP</mark>,
   <mark>Pure Data</mark> and
   <mark>git</mark>.
@@ -74,7 +74,7 @@ content:
             "Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex (Elife, 2021)". 
             We identified a novel mechanism by which serotonin is able to alter cortical network activity. During the course of this project I employed the following techniques: 
             in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
-            pharmacology, immunohistochemistry and confocal imaging.    
+            pharmacology, immunohistochemistry and confocal imaging. I also became proficient with Matlab and Python for data analysis.
 
       - layout: right
         title: Poulet lab, Max Delbrück Center (MDC)
@@ -189,7 +189,7 @@ content:
         </p>
         <p style="text-align:center">
           <img src="/images/IMG_5850.jpeg " width="300" title="guitars"/>
-          <img src="/images/waterfall.gif " width="450" title="waterfalls"/>
+          <img src="/images/waterfall.gif " width="430" title="waterfalls"/>
           <img src="/images/geyser.gif " width="300" title="geysers"/>
         </p>
         <p style="text-align:center">
