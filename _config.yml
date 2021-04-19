@@ -23,7 +23,7 @@ github_username:  RobertoDF
 orcid_username: 0000-0002-4085-9114
 # About Section
 # about_title: About Me
-about_profile_image: images/profile
+about_profile_image: images/profile.png
 about_content: |
   Hi, my name is James Grant, I'm a full stack web developer with over 8 years experience currently specialising in React development.
   I am currently working for NatWest as a frontend software engineer on their comercial banking platform, Bankline.
