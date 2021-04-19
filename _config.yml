@@ -76,52 +76,52 @@ content:
             in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
             pharmacology, immunohistochemistry and confocal imaging. 
 
-      - layout: right
-        title: Poulet lab, Max Delbrück Center (MDC)
-        link: https://www.mdc-berlin.de/poulet
-        # link_text: boringcompany.com
-        sub_title: PhD student
-        caption: February 2015 - December 2015
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-             I worked under the supervision of Nevena Milenkovic investigating temperature perception in mice, a follow-up to her work 
-          "A somatosensory circuit for cooling perception in mice (Nature Neuroscience, 2014)". I have performed in vivo whole cell patch clamp recording from anesthetized mice,
-          thalamic drug injections and behavioral training.
+      # - layout: right
+      #   title: Poulet lab, Max Delbrück Center (MDC)
+      #   link: https://www.mdc-berlin.de/poulet
+      #   # link_text: boringcompany.com
+      #   sub_title: PhD student
+      #   caption: February 2015 - December 2015
+      #   #quote: >
+      #   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      #   description: | # this will include new lines to allow paragraphs
+      #        I worked under the supervision of Nevena Milenkovic investigating temperature perception in mice, a follow-up to her work 
+      #     "A somatosensory circuit for cooling perception in mice (Nature Neuroscience, 2014)". I have performed in vivo whole cell patch clamp recording from anesthetized mice,
+      #     thalamic drug injections and behavioral training.
 
-       - layout: left
-         title: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
-         link: https://www.activetouch.de/
-        # link_text: boringcompany.com
-         sub_title: Lab rotation
-         caption: October 2014 - January 2015
-          #quote: >
-          #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-         description: | # this will include new lines to allow paragraphs
-                During my lab rotation in the Brecht lab I assisted Dr. Shimpei Ishiyama in his project later published as 
-          "Neural correlates of ticklishness in the rat somatosensory cortex (Science, 2016)".
-          The aim of his project was to understand the neurophysiological basis of ticklishness. 
-          My work was to assess if rats, like humans, have body areas more susceptible to tickling compared to others. 
-          A Matlab-based system was used to record 50-kHz USVs (ultra-sonic vocalization). 
-          USVs emission rate was used as a measure of ticklishness. 
-          In addition to this psychophysics experiment I assisted to in vivo tetrodes recording and electrical microstimulation in S1. 
+      #  - layout: left
+      #    title: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
+      #    link: https://www.activetouch.de/
+      #   # link_text: boringcompany.com
+      #    sub_title: Lab rotation
+      #    caption: October 2014 - January 2015
+      #     #quote: >
+      #     #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      #    description: | # this will include new lines to allow paragraphs
+      #           During my lab rotation in the Brecht lab I assisted Dr. Shimpei Ishiyama in his project later published as 
+      #     "Neural correlates of ticklishness in the rat somatosensory cortex (Science, 2016)".
+      #     The aim of his project was to understand the neurophysiological basis of ticklishness. 
+      #     My work was to assess if rats, like humans, have body areas more susceptible to tickling compared to others. 
+      #     A Matlab-based system was used to record 50-kHz USVs (ultra-sonic vocalization). 
+      #     USVs emission rate was used as a measure of ticklishness. 
+      #     In addition to this psychophysics experiment I assisted to in vivo tetrodes recording and electrical microstimulation in S1. 
 
-        - layout: right
-         title: Cherubini lab, International School for Advanced Studies (SISSA).
-         link: https://www.sissa.it/
-        # link_text: boringcompany.com
-         sub_title: Master student
-         caption: July 2012 - October 2013
-          #quote: >
-          #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-         description: | # this will include new lines to allow paragraphs
-                I did my internship in Professor Cherubini laboratory working as an electrophysiologist. 
-          My thesis focused on the cis-trans isomerase Pin1 role in excitatory synaptic signaling. 
-          I recorded, using the whole-cell configuration of the patch clamp technique, CA1 pyramidal cells in mouse brain slices 
-          while stimulating the Schaﬀer collaterals and applying selective blockers of GABAA, AMPA and NMDA receptors.
-           I performed post-hoc morphological reconstruction on a subset of neurons using biocytin and confocal microscopy. 
-           My experiments contributed to the publication of “Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization 
-           of PSD-95 (Journal of Neuroscience, 2016)”
+      #   - layout: right
+      #    title: Cherubini lab, International School for Advanced Studies (SISSA).
+      #    link: https://www.sissa.it/
+      #   # link_text: boringcompany.com
+      #    sub_title: Master student
+      #    caption: July 2012 - October 2013
+      #     #quote: >
+      #     #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      #    description: | # this will include new lines to allow paragraphs
+      #           I did my internship in Professor Cherubini laboratory working as an electrophysiologist. 
+      #     My thesis focused on the cis-trans isomerase Pin1 role in excitatory synaptic signaling. 
+      #     I recorded, using the whole-cell configuration of the patch clamp technique, CA1 pyramidal cells in mouse brain slices 
+      #     while stimulating the Schaﬀer collaterals and applying selective blockers of GABAA, AMPA and NMDA receptors.
+      #      I performed post-hoc morphological reconstruction on a subset of neurons using biocytin and confocal microscopy. 
+      #      My experiments contributed to the publication of “Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization 
+      #      of PSD-95 (Journal of Neuroscience, 2016)”
          
          
 
@@ -165,10 +165,16 @@ content:
         - **Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization of PSD-95.** J Neurosci. 2016 May 18;36(20):5437-47. doi: 10.1523/JNEUROSCI.3124-15.2016. PMID: 27194325; PMCID: PMC6601765.\
         Antonelli R, De Filippo R, Middei S, Stancheva S, Pastore B, Ammassari-Teule M, Barberis A, Cherubini E, Zacchi P. 
 
+  - title: Conferences
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        - **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ 
+        - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+  - title: Awards
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        - **2015** Neurocure fellowship
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
