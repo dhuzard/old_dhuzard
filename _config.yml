@@ -1,14 +1,20 @@
 # Site
-# repository: RobertoDF/RobertoDF.github.io
+repository: RobertoDF/RobertoDF.github.io
 favicon: images/favicon.ico
 
+# Content configuration version
 version: 2
 
 # Personal info
 name: Roberto De Filippo
 title: Neuroscience PhD
-# email: roberto.defilippo@outlook.com
+# email: brett.h@email.co.uk
+# website: www.github.com/sproogen/resume-theme
 
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
 # Social links
 twitter_username: RobertoDeF_
 github_username:  RobertoDF
@@ -21,6 +27,22 @@ linkedin_username: https://www.linkedin.com/in/roberto-de-filippo-883a1b54/
 # youtube_username:
 # googleplus_username:
 orcid_username: 0000-0002-4085-9114
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.png
@@ -35,111 +57,57 @@ about_content: |
   <mark>Pure Data</mark> and
   <mark>git</mark>.
 
-# Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
-# More Section
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
-        company: Schmitz lab, Charité-Universitätsmedizin Berlin
+      - layout: left
+        title: Schmitz lab, Charité-Universitätsmedizin Berlin
         link: https://schmitz.neurocure.de/
-        dates: January 2016 - 2021
-        job_title: PhD student
-        description: |
-          My PhD project is focused on serotonergic modulation of slow oscillations in entorhinal cortex, it led to the publication 
-          "Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex (Elife, 2021)". 
-          We identified a novel mechanism by which serotonin is able to alter cortical network activity.
-          During the course of this project I employed the following techniques: in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
-          pharmacology, immunohistochemistry and confocal imaging. 
+        # link_text: boringcompany.com
+        sub_title: PhD student
+        caption: January 2016 - 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            My PhD project is focused on serotonergic modulation of slow oscillations in entorhinal cortex, it led to the publication 
+            "Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex (Elife, 2021)". 
+            We identified a novel mechanism by which serotonin is able to alter cortical network activity. During the course of this project I employed the following techniques: 
+            in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
+            pharmacology, immunohistochemistry and confocal imaging. 
 
-        layout: right
-      - company: Poulet lab, Max Delbrück Center (MDC)
-        dates: February 2015 - December 2015
-        link: https://www.mdc-berlin.de/poulet
-        job_title: PhD student
-        description: |
-          I worked under the supervision of Nevena Milenkovic investigating temperature perception in mice, a follow-up to her work 
-          "A somatosensory circuit for cooling perception in mice (Nature Neuroscience, 2014)". I have performed in vivo whole cell patch clamp recording from anesthetized mice,
-          thalamic drug injections and behavioral training.
-
-      -
-        company: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
-        link: https://www.activetouch.de/
-        dates: October 2014 - January 2015
-        job_title: Lab rotation
-        description: |
-          During my lab rotation in the Brecht lab I assisted Dr. Shimpei Ishiyama in his project later published as 
-          "Neural correlates of ticklishness in the rat somatosensory cortex (Science, 2016)".
-          The aim of his project was to understand the neurophysiological basis of ticklishness. 
-          My work was to assess if rats, like humans, have body areas more susceptible to tickling compared to others. 
-          A Matlab-based system was used to record 50-kHz USVs (ultra-sonic vocalization). 
-          USVs emission rate was used as a measure of ticklishness. 
-          In addition to this psychophysics experiment I assisted to in vivo tetrodes recording and electrical microstimulation in S1. 
-         
-        layout: right
-      - company: Cherubini lab, International School for Advanced Studies (SISSA).
-        link: https://www.sissa.it/
-        dates: July 2012 - October 2013
-        job_title: Master student
-        description: |
-          I did my internship in Professor Cherubini laboratory working as an electrophysiologist. 
-          My thesis focused on the cis-trans isomerase Pin1 role in excitatory synaptic signaling. 
-          I recorded, using the whole-cell configuration of the patch clamp technique, CA1 pyramidal cells in mouse brain slices 
-          while stimulating the Schaﬀer collaterals and applying selective blockers of GABAA, AMPA and NMDA receptors.
-           I performed post-hoc morphological reconstruction on a subset of neurons using biocytin and confocal microscopy. 
-           My experiments contributed to the publication of “Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization 
-           of PSD-95 (Journal of Neuroscience, 2016)”
-- title: Education
-    layout: list
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
     content:
-      - name: University of Milan
-        dates: October 2008 - October 2011
-        description: |
-          Bachelor's degree in Biology
+      - layout: left
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-- name: University of Trieste
-  dates: October 2011 - October 2013
-  description: |
-    Master's degree in Neuroscience
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-  - title: Publications
-    more_content: |
-      **Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex.** Elife. 2021 Mar 31;10:e66960. doi: 10.7554/eLife.66960. PMID: 33789079; PMCID: PMC8016478.\
-      de Filippo R<sup>*</sup>, Rost BR, Stumpf A, Cooper C, Tukker JJ, Harms C, Beed P, Schmitz D<sup>*</sup>.\
-      <sup>*</sup> = corresponding authors
-
-
-      **Layer 3 Pyramidal Cells in the Medial Entorhinal Cortex Orchestrate Up-Down States and Entrain the Deep Layers Differentially.** Cell Rep. 2020 Dec 8;33(10):108470. doi: 10.1016/j.celrep.2020.108470. PMID: 33296656.\
-      Beed P<sup>*</sup>, de Filippo R<sup>*</sup>, Holman C<sup>*</sup>, Johenning FW, Leibold C, Caputi A, Monyer H, Schmitz D.\
-      <sup>*</sup> = equal contribution
-
-      **Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization of PSD-95.** J Neurosci. 2016 May 18;36(20):5437-47. doi: 10.1523/JNEUROSCI.3124-15.2016. PMID: 27194325; PMCID: PMC6601765.\
-      Antonelli R, De Filippo R, Middei S, Stancheva S, Pastore B, Ammassari-Teule M, Barberis A, Cherubini E, Zacchi P. 
-
- - title: Conferences
-    more_content: |
-      **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ \
-      **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
-
- - title: Awards
-    more_content: |
-      **2015** Neurocure fellowship
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: false
+footer_show_references: true
+# references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/modern-resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
@@ -147,16 +115,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
