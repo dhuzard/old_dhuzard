@@ -77,27 +77,27 @@ content:
             pharmacology, immunohistochemistry and confocal imaging. 
 
       - layout: right
-         title: Poulet lab, Max Delbrück Center (MDC)
-         link: https://www.mdc-berlin.de/poulet
+        title: Poulet lab, Max Delbrück Center (MDC)
+        link: https://www.mdc-berlin.de/poulet
          # link_text: boringcompany.com
-         sub_title: PhD student
-         caption: February 2015 - December 2015
+        sub_title: PhD student
+        caption: February 2015 - December 2015
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-         description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
              I worked under the supervision of Nevena Milenkovic investigating temperature perception in mice, a follow-up to her work 
           "A somatosensory circuit for cooling perception in mice (Nature Neuroscience, 2014)". I have performed in vivo whole cell patch clamp recording from anesthetized mice,
           thalamic drug injections and behavioral training.
 
       - layout: left
-         title: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
-         link: https://www.activetouch.de/
+        title: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
+        link: https://www.activetouch.de/
         # link_text: boringcompany.com
-         sub_title: Lab rotation
-         caption: October 2014 - January 2015
+        sub_title: Lab rotation
+        caption: October 2014 - January 2015
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-         description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
                 During my lab rotation in the Brecht lab I assisted Dr. Shimpei Ishiyama in his project later published as 
           "Neural correlates of ticklishness in the rat somatosensory cortex (Science, 2016)".
           The aim of his project was to understand the neurophysiological basis of ticklishness. 
@@ -107,14 +107,14 @@ content:
           In addition to this psychophysics experiment I assisted to in vivo tetrodes recording and electrical microstimulation in S1. 
 
       - layout: right
-         title: Cherubini lab, International School for Advanced Studies (SISSA).
-         link: https://www.sissa.it/
+        title: Cherubini lab, International School for Advanced Studies (SISSA).
+        link: https://www.sissa.it/
         # link_text: boringcompany.com
-         sub_title: Master student
-         caption: July 2012 - October 2013
+        sub_title: Master student
+        caption: July 2012 - October 2013
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-         description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
                 I did my internship in Professor Cherubini laboratory working as an electrophysiologist. 
           My thesis focused on the cis-trans isomerase Pin1 role in excitatory synaptic signaling. 
           I recorded, using the whole-cell configuration of the patch clamp technique, CA1 pyramidal cells in mouse brain slices 
