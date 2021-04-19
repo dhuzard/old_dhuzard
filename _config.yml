@@ -184,12 +184,12 @@ content:
     content: | # this will include new lines to allow paragraphs
         <p float="left">
           <img src="/images/synths.jpeg " width="300" alt="synthesizers"/>
-          <img src="/images/IMG_8581.jpg" width="350" alt="beaches"/> 
+          <img src="/images/IMG_8581.jpg" width="450" alt="beaches"/> 
           <img src="/images/IMG_5849.jpeg " width="350" alt="skates"/>
         </p>
         <p float="left">
           <img src="/images/IMG_5850.jpeg " width="300" alt="guitars"/>
-          <img src="/images/waterfall.gif " width="300" alt="waterfalls"/>
+          <img src="/images/waterfall.gif " width="400" alt="waterfalls"/>
           <img src="/images/geyser.gif " width="300" alt="geysers"/>
         </p>
      
