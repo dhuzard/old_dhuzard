@@ -178,6 +178,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         - **2015** Neurocure fellowship
+
+  - title: Interests
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
