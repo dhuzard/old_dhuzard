@@ -182,7 +182,7 @@ content:
   - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
-        ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+        ![Synthesizer](/images/syths.heic "Synthesizer")
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
