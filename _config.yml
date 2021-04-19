@@ -183,14 +183,15 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         <p float="left">
-          <img src="/images/synths.jpeg " width="400" />
-          <img src="/images/IMG_8581.jpg" width="400" /> 
-          <img src="/images/IMG_5849.jpeg " width="400" />
+          <img src="/images/synths.jpeg " width="300" />
+          <img src="/images/IMG_8581.jpg" width="300" /> 
+          <img src="/images/IMG_5849.jpeg " width="300" />
         </p>
         <p float="left">
           <img src="/images/IMG_5850.jpeg " width="400" />
          
         </p>
+        ![Alt Text](/images/waterfall.gif)
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
