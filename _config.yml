@@ -25,13 +25,11 @@ orcid_username: 0000-0002-4085-9114
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: |
-  Hi, my name is James Grant, I'm a full stack web developer with over 8 years experience currently specialising in React development.
-  I am currently working for NatWest as a frontend software engineer on their comercial banking platform, Bankline.
-
-  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
-  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
-  with something new. I have experience working with:
+  Hi, my name is Roberto De Filippo, I am a neuroscientist interested in <mark>neuromodulation<mark> and <mark>sensory perception<mark>. 
+  Currently my main focus is <mark>serotonin<mark> and in vivo recording with high-density probes (neuropixel).
+  I have experience working with:
   <mark>Python</mark>,
+  <mark>Tensorflow<mark>
   <mark>Matlab</mark> and
   <mark>git</mark>.
 
@@ -45,19 +43,9 @@ about_content: |
 # educaton_title: Education
 
 # More Section
-more_title: When I'm Not Programming
-more_content: |
-  When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as
-  mountain biking, road cycling, kitesuring and horse riding as well as trying to make time for things like
-  rock climbing and playing some rugby. Since my time at university I have become a very keen Kitesurfer and freestyle
-  Landboarder. In 2014 I competed and won the amateur landboard British powerkite tour.
+# more_title: When I'm Not Programming
+# more_content: |
 
-  I'm interested in photography and videography as I like to be creative, this is mainly through sport but
-  I enjoy landscape and abstract photography too. I like to showcase my work on instagram if
-  you would like to take a look - [jameswgrant](https://www.instagram.com/jameswgrant/).
-
-  Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of
-  Bristol's indoor climbing centres or down the Rec supporting Bath Rugby.
 
 # Footer
 footer_show_references: false
