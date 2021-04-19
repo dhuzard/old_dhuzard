@@ -183,6 +183,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         ![Synthesizers](/images/synths "Synthesizers")
+        ![Nice beaches](/images/IMG_8581.jpg "Nice beaches")
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
