@@ -70,7 +70,7 @@ more_content: |
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 # sass:
 #   style: compressed
