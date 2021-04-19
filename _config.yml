@@ -76,28 +76,95 @@ content:
             in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
             pharmacology, immunohistochemistry and confocal imaging. 
 
+      - layout: right
+        title: Poulet lab, Max Delbrück Center (MDC)
+        link: https://www.mdc-berlin.de/poulet
+        # link_text: boringcompany.com
+        sub_title: PhD student
+        caption: February 2015 - December 2015
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             I worked under the supervision of Nevena Milenkovic investigating temperature perception in mice, a follow-up to her work 
+          "A somatosensory circuit for cooling perception in mice (Nature Neuroscience, 2014)". I have performed in vivo whole cell patch clamp recording from anesthetized mice,
+          thalamic drug injections and behavioral training.
+
+       - layout: left
+         title: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
+         link: https://www.activetouch.de/
+        # link_text: boringcompany.com
+         sub_title: Lab rotation
+         caption: October 2014 - January 2015
+          #quote: >
+          #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+         description: | # this will include new lines to allow paragraphs
+                During my lab rotation in the Brecht lab I assisted Dr. Shimpei Ishiyama in his project later published as 
+          "Neural correlates of ticklishness in the rat somatosensory cortex (Science, 2016)".
+          The aim of his project was to understand the neurophysiological basis of ticklishness. 
+          My work was to assess if rats, like humans, have body areas more susceptible to tickling compared to others. 
+          A Matlab-based system was used to record 50-kHz USVs (ultra-sonic vocalization). 
+          USVs emission rate was used as a measure of ticklishness. 
+          In addition to this psychophysics experiment I assisted to in vivo tetrodes recording and electrical microstimulation in S1. 
+
+        - layout: right
+         title: Cherubini lab, International School for Advanced Studies (SISSA).
+         link: https://www.sissa.it/
+        # link_text: boringcompany.com
+         sub_title: Master student
+         caption: July 2012 - October 2013
+          #quote: >
+          #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+         description: | # this will include new lines to allow paragraphs
+                I did my internship in Professor Cherubini laboratory working as an electrophysiologist. 
+          My thesis focused on the cis-trans isomerase Pin1 role in excitatory synaptic signaling. 
+          I recorded, using the whole-cell configuration of the patch clamp technique, CA1 pyramidal cells in mouse brain slices 
+          while stimulating the Schaﬀer collaterals and applying selective blockers of GABAA, AMPA and NMDA receptors.
+           I performed post-hoc morphological reconstruction on a subset of neurons using biocytin and confocal microscopy. 
+           My experiments contributed to the publication of “Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization 
+           of PSD-95 (Journal of Neuroscience, 2016)”
+         
+         
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: University of Trieste
+        caption: October 2011 - October 2013
+        sub_title: Bachelor's degree in Biology
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # description: | # this will include new lines to allow paragraphs
+         # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+         # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+      - layout: left
+        title: University of Milan
+        caption: October 2008 - October 2011
+        sub_title: Bachelor's degree in Biology
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+        #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+       - **Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex.** Elife. 2021 Mar 31;10:e66960. doi: 10.7554/eLife.66960. PMID: 33789079; PMCID: PMC8016478.\
+        de Filippo R<sup>*</sup>, Rost BR, Stumpf A, Cooper C, Tukker JJ, Harms C, Beed P, Schmitz D<sup>*</sup>.\
+        <sup>*</sup> = corresponding authors
+
+
+        - **Layer 3 Pyramidal Cells in the Medial Entorhinal Cortex Orchestrate Up-Down States and Entrain the Deep Layers Differentially.** Cell Rep. 2020 Dec 8;33(10):108470. doi: 10.1016/j.celrep.2020.108470. PMID: 33296656.\
+        Beed P<sup>*</sup>, de Filippo R<sup>*</sup>, Holman C<sup>*</sup>, Johenning FW, Leibold C, Caputi A, Monyer H, Schmitz D.\
+        <sup>*</sup> = equal contribution
+
+        - **Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization of PSD-95.** J Neurosci. 2016 May 18;36(20):5437-47. doi: 10.1523/JNEUROSCI.3124-15.2016. PMID: 27194325; PMCID: PMC6601765.\
+        Antonelli R, De Filippo R, Middei S, Stancheva S, Pastore B, Ammassari-Teule M, Barberis A, Cherubini E, Zacchi P. 
+
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
