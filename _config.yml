@@ -128,7 +128,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: University of Trieste
         caption: October 2011 - October 2013
         sub_title: Bachelor's degree in Biology
@@ -139,7 +139,7 @@ content:
 
          # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-      - layout: left
+      - layout: top-middle
         title: University of Milan
         caption: October 2008 - October 2011
         sub_title: Bachelor's degree in Biology
