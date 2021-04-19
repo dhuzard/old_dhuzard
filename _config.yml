@@ -76,9 +76,8 @@ content:
             in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
             pharmacology, immunohistochemistry and confocal imaging.    
 
-      - title: Poulet lab, Max Delbrück Center (MDC)
         layout: right
-       
+        - title: Poulet lab, Max Delbrück Center (MDC)
         link: https://www.mdc-berlin.de/poulet
          # link_text: boringcompany.com
         sub_title: PhD student
