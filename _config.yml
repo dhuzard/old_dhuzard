@@ -182,11 +182,9 @@ content:
   - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
-        ![Synthesizers](/images/synths.jpeg "Synthesizers")
-        ![Nice beaches](/images/IMG_8581.jpg "Nice beaches")
         <p float="left">
-          <img src="/images/synths.jpeg " width="100" />
-          <img src="/images/IMG_8581.jpg" width="100" /> 
+          <img src="/images/synths.jpeg " width="200" />
+          <img src="/images/IMG_8581.jpg" width="200" /> 
         </p>
 # Footer
 footer_show_references: true
