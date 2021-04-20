@@ -131,9 +131,9 @@ content:
       - layout: top-middle
         title: University of Trieste
         caption: October 2011 - October 2013
-        sub_title: Bachelor's degree in Biology 103/110
+        sub_title: Bachelor's degree in Biology
         quote: >
-          103/110 
+          110/110 cum laude103/110 
         # description: | # this will include new lines to allow paragraphs
          # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -142,9 +142,9 @@ content:
       - layout: top-middle
         title: University of Milan
         caption: October 2008 - October 2011
-        sub_title: Bachelor's degree in Biology 110/110 cum laude
+        sub_title: Bachelor's degree in Biology
         quote: >
-             110/110 cum laude
+             103/110 
         # description: | # this will include new lines to allow paragraphs
         #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -184,11 +184,11 @@ content:
     content: | # this will include new lines to allow paragraphs
         <p style="text-align:center">
           <img src="/images/synths.jpeg " width="300" title="synthesizers"/>
-          <img src="/images/IMG_8581.jpg" width="400" title="beaches"/> 
+          <img src="/images/IMG_8581.jpg" width="400" title="nice beaches"/> 
           <img src="/images/IMG_5849.jpeg " width="400" title="skates"/>
         </p>
         <p style="text-align:center">
-          <img src="/images/IMG_5850.jpeg " width="300" title="guitars"/>
+          <img src="/images/IMG_5850.jpeg " width="300" title="playing guitar"/>
           <img src="/images/waterfall.gif " width="450" title="waterfalls"/>
           <img src="/images/geyser.gif " width="300" title="watching geysers from really near"/>
         </p>
