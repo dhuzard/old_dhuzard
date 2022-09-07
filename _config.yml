@@ -1,32 +1,32 @@
 # Site
-repository: RobertoDF/RobertoDF.github.io
+repository: dhuzard/dhuzard.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 1
 
 # Personal info
-name: Roberto De Filippo
+name: Damien Huzard
 title: Neuroscience PhD
-# email: brett.h@email.co.uk
+# email: damien.huzard@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # Social links
-twitter_username: RobertoDeF_
-github_username:  RobertoDF
+twitter_username: dhuzard
+github_username:  dhuzard
 # dribbble_username:
 # facebook_username:
 # flickr_username:
-# instagram_username: jameswgrant
-linkedin_username: roberto-de-filippo
+# instagram_username:
+linkedin_username: damien-huzard
 # pinterest_username:
 # youtube_username:
 # googleplus_username:
-orcid_username: 0000-0002-4085-9114
+orcid_username: 0000-0003-4820-7951
 
 # Additional icon links
 #additional_links:
@@ -58,17 +58,16 @@ about_content: |
   <mark>git</mark>.
 
 content:
-  - title: Experience # Title for the section
+  - title: Lab Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Schmitz lab, Charité-Universitätsmedizin Berlin
-        link: https://schmitz.neurocure.de/
+        title: Bourinet lab, Inserm, Institut de Génomique Fonctionnelle (IGF), Montpellier
+        link: https://www.igf.cnrs.fr/index.php/en/h-teams-en/ht-bourinet-en
         # link_text: boringcompany.com
-        sub_title: PhD student
-        caption: January 2016 - 2021
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Postdoc #2
+        caption: July 2021 - present
+        #quote: > Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             My PhD project is focused on serotonergic modulation of slow oscillations in entorhinal cortex, it led to the publication 
             "Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex (Elife, 2021)". 
