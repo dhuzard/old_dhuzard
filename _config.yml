@@ -46,18 +46,10 @@ orcid_username: 0000-0003-4820-7951
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpeg
-about_content: |
-  Hi, my name is Roberto De Filippo, I am a neuroscientist interested in the effect of neuromodulators (and various hallucinogenic drugs) on sensory perception. 
-  Currently my main focus is <mark>serotonin</mark>, in vivo recordings with high-density probes (Neuropixel) and Machine Learning in the context of neural decoding.
-  I have experience working with:
-  <mark>Python</mark> (<mark>pandas</mark>, <mark>xarray</mark>, <mark>numpy</mark>, <mark>HoloViz</mark>), 
-  <mark>Matlab</mark>,
-  <mark>Tensorflow</mark>,
-  <mark>Max/MSP</mark>,
-  <mark>Pure Data</mark> and
-  <mark>git</mark>.
+about_content: | # this will include new lines to allow paragraphs
+  Hi, im a ghost <mark>Python</mark> (<mark>pandas</mark>, <mark>xarray</mark>, <mark>numpy</mark>, <mark>HoloViz</mark>)...
 
-# content:
+content:
   - title: Lab Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
