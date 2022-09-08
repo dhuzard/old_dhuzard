@@ -53,14 +53,15 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Lab Experience # Title for the section
     layout: list # Type of content section (list/text)
+    
     content:
       - layout: left
         title: Bourinet lab, Inserm, Institut de Génomique Fonctionnelle (IGF), Montpellier
         link: https://www.igf.cnrs.fr/index.php/en/h-teams-en/ht-bourinet-en
-        # link_text: boringcompany.com
-        sub_title: Postdoc #2
+        link_text: lab website
+        sub_title: Postdoc
         caption: July 2021 - present
-        #quote: > Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        quote: Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             My PhD project is focused on serotonergic modulation of slow oscillations in entorhinal cortex, it led to the publication 
             "Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex (Elife, 2021)". 
@@ -68,52 +69,43 @@ content:
             in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
             pharmacology, immunohistochemistry and confocal imaging. I also became proficient with Matlab and Python for data analysis.
 
+      - layout: center
+        title: Paternity leave (4 months)
+
       - layout: right
-        title: Poulet lab, Max Delbrück Center (MDC)
-        link: https://www.mdc-berlin.de/poulet
-         # link_text: boringcompany.com
-        sub_title: PhD student
-        caption: February 2015 - December 2015
+        title: Jeanneteau lab, Inserm, IGF, Montpellier
+        # link: https://www.mdc-berlin.de/poulet
+        # link_text: boringcompany.com
+        sub_title: Postdoc
+        caption: Feb 2019 - Feb 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I worked under the supervision of Nevena Milenkovic investigating temperature perception in mice, a follow-up to her work 
-            "A somatosensory circuit for cooling perception in mice (Nature Neuroscience, 2014)". I have performed in vivo whole cell patch clamp recording from anesthetized mice,
-            thalamic drug injections and behavioral training.
+            Studying social behaviors of mice model of Autism (Magel2-KO and Cntnap2-KO).
+            I developped the Social Fear Conditioning protocol and the Live Mouse Tracker system in the laboratory.
 
       - layout: left
-        title: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
-        link: https://www.activetouch.de/
-        # link_text: boringcompany.com
-        sub_title: Lab rotation
-        caption: October 2014 - January 2015
+        title: Sandi lab, EPFL, Switzerland
+        link: https://www.epfl.ch/labs/lgc/
+        link_text: LGC lab
+        sub_title: PhD candidate
+        caption: March 2014 - June 2018
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-                During my lab rotation in the Brecht lab I assisted Dr. Shimpei Ishiyama in his project later published as 
-                "Neural correlates of ticklishness in the rat somatosensory cortex (Science, 2016)".
-                The aim of his project was to understand the neurophysiological basis of ticklishness. 
-                My work was to assess if rats, like humans, have body areas more susceptible to tickling compared to others. 
-                A Matlab-based system was used to record 50-kHz USVs (ultra-sonic vocalization). 
-                USVs emission rate was used as a measure of ticklishness. 
-                In addition to this psychophysics experiment I assisted to in vivo tetrodes recording and electrical microstimulation in S1. 
-
+                My PhD thesis ...
+                
+                
       - layout: right
-        title: Cherubini lab, International School for Advanced Studies (SISSA).
+        title: Mumbyi lab, Concordia University, Montreal.
         link: https://www.sissa.it/
-        # link_text: boringcompany.com
+        link_text: CSBN website
         sub_title: Master student
         caption: July 2012 - October 2013
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-                I did my internship in Professor Enrico Cherubini's lab working as an in vitro electrophysiologist. 
-                My thesis focused on the cis-trans isomerase Pin1 role in excitatory synaptic signaling. 
-                I recorded, using the whole-cell configuration of the patch clamp technique, CA1 pyramidal cells in mouse brain slices 
-                while stimulating the Schaﬀer collaterals and applying selective blockers of GABAA, AMPA and NMDA receptors.
-                I performed post-hoc morphological reconstruction on a subset of neurons using biocytin and confocal microscopy. 
-                My experiments contributed to the publication of “Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization 
-                of PSD-95 (Journal of Neuroscience, 2016)”
+                Super cool stuff
          
          
 
