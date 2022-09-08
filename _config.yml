@@ -3,7 +3,7 @@ repository: dhuzard/cv2
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 1
+version: 2
 
 # Personal info
 name: Damien Huzard
@@ -48,6 +48,7 @@ orcid_username: 0000-0003-4820-7951
 about_profile_image: images/face.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, im a ghost <mark>Python</mark> (<mark>pandas</mark>, <mark>xarray</mark>, <mark>numpy</mark>, <mark>HoloViz</mark>)...
+  I aslo love pasta.
 
 content:
   - title: Lab Experience # Title for the section
