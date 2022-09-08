@@ -12,7 +12,7 @@ title: Neuroscience PhD
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # Social links
@@ -57,7 +57,7 @@ about_content: |
   <mark>Pure Data</mark> and
   <mark>git</mark>.
 
-content:
+# content:
   - title: Lab Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
