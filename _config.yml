@@ -1,5 +1,5 @@
 # Site
-repository: dhuzard/cv2
+repository: dhuzard/dhuzard.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Damien Huzard
-title: Neuroscience PhD
+title: Neuro-behaviorist, PhD
 # email: damien.huzard@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 # Social links
-twitter_username: dhuzard
+twitter_username: DHuzard
 github_username:  dhuzard
 # dribbble_username:
 # facebook_username:
@@ -47,11 +47,12 @@ orcid_username: 0000-0003-4820-7951
 # about_title: About Me
 about_profile_image: images/face-2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm D. Huzard, behavioral neuroscientist. I like doing and trying stuff.
+  Hi, I'm D. Huzard, behavioral neuroscientist. > I like doing and trying stuff.
   My main research interests are gravitating around the concept of Adaptation, Stress, 
   social interactions, coping strategies which are linked to main physiological features, 
   such as cardiac regulation and sensory-processing.
-  I know <mark>Python</mark> analysis tools: <mark>Numpy</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark> and <mark>Git</mark>
+  > I am an expert in <mark>all</mark> types of behavioral tasks with rodents.
+  > I know <mark>Python</mark> analysis tools: <mark>Numpy</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark> and <mark>Git</mark>
 
 content:
   - title: Lab Experience # Title for the section
@@ -119,7 +120,7 @@ content:
         sub_title: Master's degree in Neuroscience
         # quote: 110/110 cum laude
         # description: | # this will include new lines to allow paragraphs
-         # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
       - layout: top-middle
         title: EPFL, Lausanne, Switzerland
@@ -137,7 +138,6 @@ content:
         de Filippo R<sup>*</sup>, Rost BR, Stumpf A, Cooper C, Tukker JJ, Harms C, Beed P, Schmitz D<sup>*</sup>.\
         <sup>*</sup> = corresponding authors
 
-
         - **Layer 3 Pyramidal Cells in the Medial Entorhinal Cortex Orchestrate Up-Down States and Entrain the Deep Layers Differentially.** \
         Cell Rep. 2020 Dec 8;33(10):108470. doi: 10.1016/j.celrep.2020.108470. PMID: 33296656.\
         Beed P<sup>*</sup>, de Filippo R<sup>*</sup>, Holman C<sup>*</sup>, Johenning FW, Leibold C, Caputi A, Monyer H, Schmitz D.\
@@ -147,35 +147,45 @@ content:
         J Neurosci. 2016 May 18;36(20):5437-47. doi: 10.1523/JNEUROSCI.3124-15.2016. PMID: 27194325; PMCID: PMC6601765.\
         Antonelli R, De Filippo R, Middei S, Stancheva S, Pastore B, Ammassari-Teule M, Barberis A, Cherubini E, Zacchi P. 
 
-  - title: Conferences
+  - title: Conferences / Scientific meetings
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ 
-        - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
-
-  - title: Awards
+        - **2022** FENS, Paris. Poster ‘’
+        - **2020** FENS, Virtual. Poster ‘’
+        - **2018** FENS, Berlin. Poster ‘’
+        - **2018** MATRICS (EU FP7) General Assembly. Oral Presentation. Roma.
+        - **2017** MATRICS (EU FP7) General Assembly. Oral Presentation. Majorca.
+        - **2016** FENS, Copenhagen. Poster ‘’
+        - **2016** MATRICS (EU FP7) General Assembly. Dublin.
+        - **2015** Ettore Majorama Conference, Stress, the brain and the heart, Erice, Italy
+        - **2014** FENS, Milan. Poster ‘’
+        
+  - title: Grants / Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2015** Neurocure fellowship
+        - **2021** 1-year postdoc Founding, by the Lefoulon-Delalande foundation
+        - **2020** FENS attendance voucher
+        - **2018** FENS/IBRO Travel Grant
 
   - title: Various interests
     layout: text
     content: | # this will include new lines to allow paragraphs
         <p style="text-align:center">
-          <img src="/images/synths.jpeg " width="300" title="synthesizers"/>
-          <img src="/images/IMG_8581.jpg" width="400" title="nice beaches"/> 
-          <img src="/images/IMG_5849.jpeg " width="400" title="skates"/>
+          <img src="/images/IMG1.jpeg " width="300" title="title1"/>
+          <img src="/images/IMG2.jpg" width="400" title="title1"/> 
+          <img src="/images/IMG3.jpeg " width="400" title="title1"/>
         </p>
         <p style="text-align:center">
-          <img src="/images/IMG_5850.jpeg " width="300" title="playing guitar"/>
-          <img src="/images/waterfall.gif " width="450" title="visiting waterfalls"/>
-          <img src="/images/geyser.gif " width="300" title="watching geysers from really near"/>
+          <img src="/images/IMG1.jpeg " width="300" title="title1"/>
+          <img src="/images/IMG2.jpg" width="400" title="title1"/> 
+          <img src="/images/IMG3.jpeg " width="400" title="title1"/>
         </p>
         <p style="text-align:center">
-          <img src="/images/Arduino_UNO_WIFI_30117100-01.jpeg " width="330" title="arduinos"/>
-          <img src="/images/V2Y0.gif " width="330" title="cinema"/>
-          <img src="/images/philosophy.jpeg " width="330" title="philosophy"/>
+          <img src="/images/IMG1.jpeg " width="300" title="title1"/>
+          <img src="/images/IMG2.jpg" width="400" title="title1"/> 
+          <img src="/images/IMG3.jpeg " width="400" title="title1"/>
         </p>
+        
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
