@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   My main research interests are gravitating around the concept of Adaptation, Stress, 
   social interactions, coping strategies which are linked to main physiological features, 
   such as cardiac regulation and sensory-processing.
-  > I am an expert in <mark>all</mark> types of behavioral tasks with rodents.
+  > I am an expert in <mark>all</mark> types of behavioral tasks with rodents. <br>
   > I know <mark>Python</mark> analysis tools: <mark>Numpy</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark> and <mark>Git</mark>
 
 content:
