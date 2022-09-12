@@ -165,17 +165,16 @@ content:
         - **2020** FENS attendance voucher
         - **2018** FENS/IBRO Travel Grant
 
-  - title: Various interests
+  - title: Various Stuffs that keep my mind busy
     layout: text
     content: | # this will include new lines to allow paragraphs
         <p style="text-align:center">
-          <img src="/images/IMG1.jpeg " width="300" title="title1"/>
-          <img src="/images/IMG2.jpg" width="400" title="title1"/> 
-          <img src="/images/IMG3.jpeg " width="400" title="title1"/>
+          <img src="/images/blackhole.jpg " width="500" title="General Science Stuff"/>
+          <img src="/images/blob.jpg" width="500" title="Fun Science Stuff"/> 
         </p>
         <p style="text-align:center">
-          <img src="/images/IMG1.jpeg " width="300" title="title1"/>
-          <img src="/images/IMG2.jpg" width="400" title="title1"/> 
+          <img src="/images/nervous.png " width="200" title="Some Art Stuff"/>
+          <img src="/images/IMG2.jpg" width="300" title="title1"/> 
           <img src="/images/IMG3.jpeg " width="400" title="title1"/>
         </p>
         <p style="text-align:center">
