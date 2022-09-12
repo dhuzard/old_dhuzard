@@ -51,8 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
   My main research interests are gravitating around the concept of Adaptation, Stress, 
   social interactions, coping strategies which are linked to main physiological features, 
   such as cardiac regulation and sensory-processing.
-  > I am an expert in <mark>all</mark> types of behavioral tasks with rodents. <br>
+  > I am an expert in <mark>behavioral experiments</mark> with rodents. <br>
   > I know <mark>Python</mark> analysis tools: <mark>Numpy</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark> and <mark>Git</mark>
+  > I combine behavioral tests with <mark>physiological</mark> parameters, such as: <mark>ECG/HRV</mark> and <mark>Skin-Nerve</mark> recordings.
 
 content:
   - title: Lab Experience # Title for the section
@@ -60,7 +61,7 @@ content:
     
     content:
       - layout: left
-        title: Bourinet lab, Inserm, IGF, Montpellier
+        title: Bourinet lab, <br> Inserm, IGF, <br> Montpellier, France
         link: https://www.igf.cnrs.fr/index.php/en/h-teams-en/ht-bourinet-en
         link_text: lab website
         sub_title: "Postdoc #2"
@@ -78,10 +79,8 @@ content:
         quote: Baby approved
 
       - layout: right
-        title: Jeanneteau lab, Inserm, IGF, Montpellier
-        # link: https://www.mdc-berlin.de/poulet
-        # link_text: boringcompany.com
-        sub_title: Postdoc
+        title: Jeanneteau lab, <br> Inserm, IGF, <br> Montpellier, France
+        sub_title: "Postdoc #1"
         caption: Feb 2019 - Feb 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -101,15 +100,14 @@ content:
                 My PhD thesis ...
                 
       - layout: right
-        title: Mumby lab, Concordia University, Montreal.
-        link: https://www.sissa.it/
+        title: Mumby lab, <br> Concordia University, <br> Montreal.
+        link: https://www.concordia.ca/research/neuroscience.html
         link_text: CSBN website
         sub_title: Master student
         caption: July 2012 - October 2013
-          #quote: >
-          #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        quote: The effects of extrinsic stress on somatic markers and behavior are dependent on animal housing conditions, D. Huzard et al., Physiology and Behavior, 2015
         description: | # this will include new lines to allow paragraphs
-                Super cool stuff
+                Studying the benefical effects of Enriched Environments on stressed rats.
          
   - title: Academic Education # Title for the section
     layout: list # Type of content section (list/text)
