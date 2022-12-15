@@ -193,11 +193,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         <p style="text-align:center">
-          <img src="/images/blackhole.jpg " width="500" title="General Science Stuff"/>
-          <img src="/images/blob.jpg" width="500" title="Fun Science Stuff"/> 
+          <img src="/images/blackhole.jpg " width="350" title="General Science Stuff"/>
+          <img src="/images/blob.jpg" width="350" title="Fun Science Stuff"/> 
         </p>
         <p style="text-align:center">
-          <img src="/images/nervous.png " width="200" title="Some Art Stuff"/>
+          <img src="/images/nervous.png " width="300" title="Some Art Stuff"/>
           <img src="/images/PA300431.JPG " width="300" title="title1"/> 
           <img src="/images/2 mice doing drugs - painting by Dali.png " width="300" title="title1"/>
         </p>
