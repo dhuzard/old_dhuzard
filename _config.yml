@@ -184,9 +184,9 @@ content:
   - title: Press / Populare science
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **Neurosapiens Podcast** Nov 2022, on Social contacts <link>https://podcast.ausha.co/neurosapiens/47-celui-ou-on-parlait-de-la-puissance-du-contact-humain</link>
-        - **Cerveaux et Psycho** FENS attendance voucher
-        - **Espiloon** Les Caresses
+        - **Neurosapiens Podcast** Nov 2022, on Social contacts <a href="https://podcast.ausha.co/neurosapiens/47-celui-ou-on-parlait-de-la-puissance-du-contact-humain">audio link</a>
+        - **Cerveaux et Psycho** Oct 2022, Le toucher fondement du lien social, <a href="https://www.cerveauetpsycho.fr/sd/neurosciences/le-toucher-fondement-du-lien-social-24335.php">online article link</a>
+        - **Espiloon** Le pouvoir des Caresses, on issue N°147
 
   - title: Various Stuffs that keep my mind busy
     layout: text
