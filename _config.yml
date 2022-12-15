@@ -47,7 +47,7 @@ orcid_username: 0000-0003-4820-7951
 # about_title: About Me
 about_profile_image: images/face-2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm D. Huzard, behavioral neuroscientist. > I like doing and trying stuff.
+  Hi, I'm Damien, behavioral neuroscientist or neuro-behaviorist, sounds fancier.... > I like doing and trying stuff.
   My main research interests are gravitating around the concept of Adaptation, Stress, 
   social interactions, coping strategies which are linked to main physiological features, 
   such as cardiac regulation and sensory-processing.
@@ -131,23 +131,39 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-       - **Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex.**\
-        Elife. 2021 Mar 31;10:e66960. doi: 10.7554/eLife.66960. PMID: 33789079; PMCID: PMC8016478.\
-        de Filippo R<sup>*</sup>, Rost BR, Stumpf A, Cooper C, Tukker JJ, Harms C, Beed P, Schmitz D<sup>*</sup>.\
-        <sup>*</sup> = corresponding authors
+       - **The impact of C-tactile low-threshold mechanoreceptors on affective touch and social interactions in mice.**\
+        Science advances. 2022 June 29; Vol 8, Num 26 eabo7566. doi: 10.1126/sciadv.abo7566. PMID:  35767616; PMCID: PMC9242590.\
+        Damien Huzard, Miquel Martin, François Maingret, Jean Chemin, Freddy Jeanneteau, Pierre-François Mery, Pascal Fossat, Emmanuel Bourinet, and Amaury François.\
 
-        - **Layer 3 Pyramidal Cells in the Medial Entorhinal Cortex Orchestrate Up-Down States and Entrain the Deep Layers Differentially.** \
-        Cell Rep. 2020 Dec 8;33(10):108470. doi: 10.1016/j.celrep.2020.108470. PMID: 33296656.\
-        Beed P<sup>*</sup>, de Filippo R<sup>*</sup>, Holman C<sup>*</sup>, Johenning FW, Leibold C, Caputi A, Monyer H, Schmitz D.\
-        <sup>*</sup> = equal contribution
+        - **Constitutive differences in glucocorticoid responsiveness are related to divergent spatial information processing abilities.** \
+        Stress. 2020 Jan;23(1):37-49. doi: 10.1080/10253890.2019.1625885. Epub 2019 Jun 12. PMID: 31187686.\
+        Huzard D, Vouros A, Monari S, Astori S, Vasilaki E, Sandi C.\
 
-        - **Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization of PSD-95.** \
-        J Neurosci. 2016 May 18;36(20):5437-47. doi: 10.1523/JNEUROSCI.3124-15.2016. PMID: 27194325; PMCID: PMC6601765.\
-        Antonelli R, De Filippo R, Middei S, Stancheva S, Pastore B, Ammassari-Teule M, Barberis A, Cherubini E, Zacchi P. 
+        - **Low vagal tone in two rat models of psychopathology involving high or low corticosterone stress responses.** \
+        Psychoneuroendocrinology. 2019 Mar;101:101-110. doi: 10.1016/j.psyneuen.2018.11.003. Epub 2018 Nov 3. PMID: 30448728.\
+        Huzard D, Ghosal S, Grosse J, Carnevali L, Sgoifo A, Sandi C. \
+        
+        - **Low empathy-like behaviour in male mice associates with impaired sociability, emotional memory, physiological stress reactivity and variations in neurobiological regulations.**\
+        PLoS One. 2017 Dec 4;12(12):e0188907. doi: 10.1371/journal.pone.0188907. PMID: 29200428; PMCID: PMC5714342.\
+        Laviola G, Zoratto F, Ingiosi D, Carito V, Huzard D, Fiore M, Macrì S.\
+
+        - **The link between aberrant hypothalamic-pituitary-adrenal axis activity during development and the emergence of aggression-Animal studies.** \
+        Neurosci Biobehav Rev. 2018 Aug;91:138-152. doi: 10.1016/j.neubiorev.2016.10.008. Epub 2016 Oct 14. PMID: 27751733.\
+        Walker SE<sub>*</sub>, Papilloud A<sub>*</sub>, Huzard D<sub>*</sub>, Sandi C.\
+        <sub>*</sub>equal contribution.\
+        
+        - **Urolithin A induces mitophagy and prolongs lifespan in C. elegans and increases muscle function in rodents.** \
+        Nat Med. 2016 Aug;22(8):879-88. doi: 10.1038/nm.4132. Epub 2016 Jul 11. PMID: 27400265.\
+        Ryu D, Mouchiroud L, Andreux PA, Katsyuba E, Moullan N, Nicolet-Dit-Félix AA, Williams EG, Jha P, Lo Sasso G, Huzard D, Aebischer P, Sandi C, Rinsch C, Auwerx J.\
+
+        - **The effects of extrinsic stress on somatic markers and behavior are dependent on animal housing conditions.** \
+        Physiol Behav. 2015 Nov 1;151:238-45. doi: 10.1016/j.physbeh.2015.07.018. Epub 2015 Jul 26. PMID: 26220463.
+        Huzard D, Mumby DG, Sandi C, Poirier GL, van der Kooij MA. \
 
   - title: Conferences / Scientific meetings
     layout: text
     content: | # this will include new lines to allow paragraphs
+        - **2022** Spin-Days, Sète. Oral Presentation ‘’
         - **2022** FENS, Paris. Poster ‘’
         - **2020** FENS, Virtual. Poster ‘’
         - **2018** FENS, Berlin. Poster ‘’
@@ -164,6 +180,13 @@ content:
         - **2021** 1-year postdoc Founding, by the Lefoulon-Delalande foundation
         - **2020** FENS attendance voucher
         - **2018** FENS/IBRO Travel Grant
+
+  - title: Press / Populare science
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        - **Neurosapiens Podcast** Nov 2022, on Social contacts <link>https://podcast.ausha.co/neurosapiens/47-celui-ou-on-parlait-de-la-puissance-du-contact-humain</link>
+        - **Cerveaux et Psycho** FENS attendance voucher
+        - **Espiloon** Les Caresses
 
   - title: Various Stuffs that keep my mind busy
     layout: text
