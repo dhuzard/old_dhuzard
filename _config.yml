@@ -69,9 +69,12 @@ content:
         # quote: Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Studying the affects of Affective Touch on mice, along with Amaury François:
-            - Analyzing Shank3 mouse model of ASD
+            - Analyzing Shank3 mouse model of ASD:
+                > What if sensory deficits at the periphery may be related to reduced sociability ?
+                > Dysregulation of primary sensory neurons in the Shank3-KO mice.
             - Links with Heart rate variability features ?
-            Technics used: Skin-Nerve recordings, Live Mouse Tracker (https://livemousetracker.org/), ... , .
+            - Studying the emergence of social interest and its link with vagal components.
+            Technics used: Skin-Nerve recordings, Live Mouse Tracker (https://livemousetracker.org/), ECG recordings , behavioral screening...
 
       - layout: top-middle
         title: Paternity Leave
@@ -85,8 +88,11 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Studying social behaviors of mice model of Autism (Magel2-KO and Cntnap2-KO).
+            Studying social behaviors with two mice model of Autism (Magel2-KO and Cntnap2-KO).
             I developped the Social Fear Conditioning protocol and the Live Mouse Tracker system in the laboratory.
+            I observed higher social fear retention in both mice model of autism.
+            I tried to reduce social fear with positive social interactions (with different social housing conditions)... It only worked in some specific situations.
+            ... To be continued ...
 
       - layout: left
         title: Sandi lab, EPFL, Switzerland
@@ -97,7 +103,13 @@ content:
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-                My PhD thesis ...
+                During my PhD thesis I focused on a model of rats selected for differential adaptation profiles to stress.
+                Low < Inter < High reaction animals, showed different bio-behavioral profiles.
+                Articles from the lab validated the use of the lines as an effective way to study neurodevelopment disorders related to stress pathways.
+                I showed that both Low and High lines had abnormal heart rate variability (cardiac susceptibility).
+                I observed that High line rats had better working memories after aging: "stress helps consolidate memories"
+                while the Low line rats had impaired learning and deficits in memory reversal: "illustrating negative effects of blunted stress responses".
+                Finally, by housing rats from the different lines together I obsereved the relative influence of social buffering and social contagion between rats with different 'personalities' (still under preparation...).
                 
       - layout: right
         title: Mumby lab, <br> Concordia University, <br> Montreal.
@@ -108,6 +120,8 @@ content:
         quote: The effects of extrinsic stress on somatic markers and behavior are dependent on animal housing conditions, D. Huzard et al., Physiology and Behavior, 2015
         description: | # this will include new lines to allow paragraphs
                 Studying the benefical effects of Enriched Environments on stressed rats.
+                Rats were stressed and then housed in enriched environment in social groups (4 males and 2 females).
+                We observed beneficial effects of the enrichment on the behavioral phenotype of the stressed animals.
          
   - title: Academic Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -116,7 +130,7 @@ content:
         title: EPFL, Lausanne, Switzerland
         caption: September 2011 - September 2013
         sub_title: Master's degree in Neuroscience
-        # quote: 110/110 cum laude
+        quote: 5.6/6
         # description: | # this will include new lines to allow paragraphs
         # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
