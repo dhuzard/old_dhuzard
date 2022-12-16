@@ -9,7 +9,7 @@ version: 2
 name: Damien Huzard
 title: Neuro-behaviorist, PhD
 email: damien.huzard@igf.cnrs.fr
-website: www.dhuzard.olwstown.net
+website: https://dhuzard.owlstown.net/
 
 # Dark Mode (true/false/never)
 darkmode: false
