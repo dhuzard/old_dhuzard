@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Damien Huzard
 title: Neuro-behaviorist, PhD
-# email: damien.huzard@gmail.com
-# website: www.github.com/sproogen/resume-theme
+email: damien.huzard@igf.cnrs.fr
+website: www.dhuzard.olwstown.net
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -147,15 +147,15 @@ content:
     content: | # this will include new lines to allow paragraphs
        - **The impact of C-tactile low-threshold mechanoreceptors on affective touch and social interactions in mice.**\
         Science advances. 2022 June 29; Vol 8, Num 26 eabo7566. doi: 10.1126/sciadv.abo7566. PMID:  35767616; PMCID: PMC9242590.\
-        <b>Damien Huzard</b>, Miquel Martin, François Maingret, Jean Chemin, Freddy Jeanneteau, Pierre-François Mery, Pascal Fossat, Emmanuel Bourinet, and Amaury François.\
+        <b>Huzard D</b>, Martin M, Maingret F, Chemin J, Jeanneteau F, Mery PF, Fossat P, Bourinet E, and François A.
 
         - **Constitutive differences in glucocorticoid responsiveness are related to divergent spatial information processing abilities.** \
         Stress. 2020 Jan;23(1):37-49. doi: 10.1080/10253890.2019.1625885. Epub 2019 Jun 12. PMID: 31187686.\
-        <b>Huzard D</b>, Vouros A, Monari S, Astori S, Vasilaki E, Sandi C.\
+        <b>Huzard D</b>, Vouros A, Monari S, Astori S, Vasilaki E, Sandi C.
 
         - **Low vagal tone in two rat models of psychopathology involving high or low corticosterone stress responses.** \
         Psychoneuroendocrinology. 2019 Mar;101:101-110. doi: 10.1016/j.psyneuen.2018.11.003. Epub 2018 Nov 3. PMID: 30448728.\
-        <b>Huzard D</b>, Ghosal S, Grosse J, Carnevali L, Sgoifo A, Sandi C. \
+        <b>Huzard D</b>, Ghosal S, Grosse J, Carnevali L, Sgoifo A, Sandi C.
         
         - **Low empathy-like behaviour in male mice associates with impaired sociability, emotional memory, physiological stress reactivity and variations in neurobiological regulations.**\
         PLoS One. 2017 Dec 4;12(12):e0188907. doi: 10.1371/journal.pone.0188907. PMID: 29200428; PMCID: PMC5714342.\
@@ -163,16 +163,16 @@ content:
 
         - **The link between aberrant hypothalamic-pituitary-adrenal axis activity during development and the emergence of aggression-Animal studies.** \
         Neurosci Biobehav Rev. 2018 Aug;91:138-152. doi: 10.1016/j.neubiorev.2016.10.008. Epub 2016 Oct 14. PMID: 27751733.\
-        Walker SE<sup>*</sup>, Papilloud A<sup>*</sup>, Huzard D<sup>*</sup>, Sandi C.\
+        Walker SE<sup>*</sup>, Papilloud A<sup>*</sup>, Huzard D<sup>*</sup>, Sandi C.
         <sup>*</sup>equal contribution.\
         
         - **Urolithin A induces mitophagy and prolongs lifespan in C. elegans and increases muscle function in rodents.** \
         Nat Med. 2016 Aug;22(8):879-88. doi: 10.1038/nm.4132. Epub 2016 Jul 11. PMID: 27400265.\
-        Ryu D, Mouchiroud L, Andreux PA, Katsyuba E, Moullan N, Nicolet-Dit-Félix AA, Williams EG, Jha P, Lo Sasso G, <b>Huzard D</b>, Aebischer P, Sandi C, Rinsch C, Auwerx J.\
+        Ryu D, Mouchiroud L, Andreux PA, Katsyuba E, Moullan N, Nicolet-Dit-Félix AA, Williams EG, Jha P, Lo Sasso G, <b>Huzard D</b>, Aebischer P, Sandi C, Rinsch C, Auwerx J.
 
         - **The effects of extrinsic stress on somatic markers and behavior are dependent on animal housing conditions.** \
         Physiol Behav. 2015 Nov 1;151:238-45. doi: 10.1016/j.physbeh.2015.07.018. Epub 2015 Jul 26. PMID: 26220463.\
-        <b>Huzard D</b>, Mumby DG, Sandi C, Poirier GL, van der Kooij MA. \
+        <b>Huzard D</b>, Mumby DG, Sandi C, Poirier GL, van der Kooij MA.
 
   - title: Conferences / Scientific meetings
     layout: text
@@ -212,12 +212,13 @@ content:
         </p>
         <p style="text-align:center">
           <img src="/images/nervous.png " width="300" title="Some Art Stuff"/>
-          <img src="/images/PA300431.JPG " width="300" title="title1"/> 
-          <img src="/images/2 mice doing drugs - painting by Dali.png " width="300" title="title1"/>
+          <img src="/images/PA300431.JPG " width="300" title="Natural Light stuff"/> 
+          <img src="/images/Blablablax_mice_are_high_on_LSD_in_the_lab_Salvador_Dali_psyche_693c7f41-68f0-45d4-af40-988b205411ed.png" width="300" title="some AI stuff"/>
         </p>
         <p style="text-align:center">
-          <img src="/images/Damien-LMT-1.jpg " width="500" title="title1"/>
-          <img src="/images/1h5mj1fg1kc7a0000000000 (2).jpg " width="500" title="blaxtractattoos.com"/>
+          <img src="/images/Damien-LMT-1.jpg " width="500" title="some mice and computer stuff"/>
+          <img src="/images/Blablablax_mice_autism_sensory_system_social_deficits_science_l_26a6f1ce-0719-4825-a846-7b4df548f661.png " width="500" title="some more AI"/>
+          <img src="/images/1h5mj1fg1kc7a0000000000 (2).jpg " width="350" title="some tattoo stuff from www.blaxtractattoos.com"/>
         </p>
         
 # Footer
