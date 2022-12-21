@@ -177,27 +177,27 @@ content:
   - title: Conferences / Scientific meetings
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2023** EPNA Award special lecture, Eranet meeting, Madrid
-        - **2022** Spin-Days, Sète. Oral Presentation, <b>The skin is the new brain</b> ‘’
-        - **2022** FENS, Paris. Poster ‘’
-        - **2020** FENS, Virtual. Poster ‘’
-        - **2019** Invited Talk by Vincent Prevost, Inserm Lille
-        - **2018** FENS, Berlin. Poster ‘’
-        - **2018** MATRICS (EU FP7) General Assembly. Oral Presentation. Roma.
-        - **2017** MATRICS (EU FP7) General Assembly. Oral Presentation. Majorca.
-        - **2016** FENS, Copenhagen. Poster ‘’
-        - **2016** MATRICS (EU FP7) General Assembly. Dublin.
-        - **2015** Ettore Majorama Conference, <b>Stress, the brain and the heart</b>, Erice, Italy
-        - **2014** FENS, Milan. Poster ‘’
+        - **2023** - EPNA Award special lecture, Eranet meeting, Madrid
+        - **2022** - Spin-Days, Sète. Oral Presentation, <b>The skin is the new brain</b> ‘’
+        - **2022** - FENS, Paris. Poster ‘’
+        - **2020** - FENS, Virtual. Poster ‘’
+        - **2019** - Invited Talk by Vincent Prevost, Inserm Lille
+        - **2018** - FENS, Berlin. Poster ‘’
+        - **2018** - MATRICS (EU FP7) General Assembly. Oral Presentation. Roma.
+        - **2017** - MATRICS (EU FP7) General Assembly. Oral Presentation. Majorca.
+        - **2016** - FENS, Copenhagen. Poster ‘’
+        - **2016** - MATRICS (EU FP7) General Assembly. Dublin.
+        - **2015** - Ettore Majorama Conference, <b>Stress, the brain and the heart</b>, Erice, Italy
+        - **2014** - FENS, Milan. Poster ‘’
         
   - title: Grants / Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2022** EPNA - ’Excellent Paper in Neuroscience Award’ from <a href="https://www.neuron-eranet.eu/joint-calls/epna/excellent-paper-in-neuroscience-award-2022/">neuron-eranet.eu</a>
+        - **2022** - EPNA - ’Excellent Paper in Neuroscience Award’ from <a href="https://www.neuron-eranet.eu/joint-calls/epna/excellent-paper-in-neuroscience-award-2022/">neuron-eranet.eu</a>
          for our article in Science Advances: <a href="https://www.science.org/doi/10.1126/sciadv.abo7566/">paper Link</a>
-        - **2021** 1-year postdoc Founding, by the Lefoulon-Delalande foundation
-        - **2020** FENS attendance voucher
-        - **2018** FENS/IBRO Travel Grant
+        - **2021** - 1-year postdoc Founding, by the Lefoulon-Delalande foundation
+        - **2020** - FENS attendance voucher
+        - **2018** - FENS/IBRO Travel Grant
 
   - title: Press / Populare science
     layout: text
@@ -221,7 +221,7 @@ content:
         <p style="text-align:center">
           <img src="/images/Damien-LMT-1.jpg " width="500" title="some mice and computer stuff"/>
           <img src="/images/Blablablax_mice_autism_sensory_system_social_deficits_science_l_26a6f1ce-0719-4825-a846-7b4df548f661.png " width="500" title="some more AI"/>
-          <a href="www.blaxtractattoos.com"><img src="/images/1h5mj1fg1kc7a0000000000 (2).jpg" width="350" alt="some tattoo stuff from www.blaxtractattoos.com."/></a>
+          <a href="https://www.blaxtractattoos.com"><img src="/images/1h5mj1fg1kc7a0000000000 (2).jpg" width="350" alt="some tattoo stuff from www.blaxtractattoos.com."/></a>
         </p>
         
 # Footer
