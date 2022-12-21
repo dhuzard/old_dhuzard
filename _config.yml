@@ -192,6 +192,8 @@ content:
   - title: Grants / Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
+        - **2022** EPNA - ’Excellent Paper in Neuroscience Award’ from <a href="https://www.neuron-eranet.eu/joint-calls/epna/excellent-paper-in-neuroscience-award-2022/">neuron-eranet.eu</a> /
+        for the article: ‘The impact of C-tactile low-threshold mechanoreceptors on affective touch and social interactions in mice’, Science Advances <a href="https://www.science.org/doi/10.1126/sciadv.abo7566/">Link</a>
         - **2021** 1-year postdoc Founding, by the Lefoulon-Delalande foundation
         - **2020** FENS attendance voucher
         - **2018** FENS/IBRO Travel Grant
