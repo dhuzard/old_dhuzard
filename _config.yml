@@ -178,10 +178,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         - **2023** - EPNA Award special lecture, Eranet meeting, Madrid
-        - **2022** - Spin-Days, Sète. Oral Presentation, <b>The skin is the new brain</b> ‘’
-        - **2022** - FENS, Paris. Poster ‘’
+        - **2022** - Spin-Days, Sète. Oral Presentation, ‘<b>The skin is the new brain</b>’
+        - **2022** - FENS, Paris. Poster ‘The Impact of C-LTMRs on sociability in mice’
         - **2020** - FENS, Virtual. Poster ‘’
-        - **2019** - Invited Talk by Vincent Prevost, Inserm Lille
+        - **2019** - Invited Talk by Vincent Prevost, Inserm Lille, ‘The links between Stress Adaptation and the personality of rats’
         - **2018** - FENS, Berlin. Poster ‘’
         - **2018** - MATRICS (EU FP7) General Assembly. Oral Presentation. Roma.
         - **2017** - MATRICS (EU FP7) General Assembly. Oral Presentation. Majorca.
@@ -193,7 +193,7 @@ content:
   - title: Grants / Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2022** - EPNA - ’Excellent Paper in Neuroscience Award’ from <a href="https://www.neuron-eranet.eu/joint-calls/epna/excellent-paper-in-neuroscience-award-2022/">neuron-eranet.eu</a>
+        - **2023** - EPNA - ’Excellent Paper in Neuroscience Award’ from <a href="https://www.neuron-eranet.eu/joint-calls/epna/excellent-paper-in-neuroscience-award-2022/">neuron-eranet.eu</a>
          for our article in Science Advances: <a href="https://www.science.org/doi/10.1126/sciadv.abo7566/">paper Link</a>
         - **2021** - 1-year postdoc Founding, by the Lefoulon-Delalande foundation
         - **2020** - FENS attendance voucher
