@@ -180,6 +180,7 @@ content:
   - title: Conferences / Scientific meetings
     layout: text
     content: | # this will include new lines to allow paragraphs
+        - **March 2023** - French Pain Research Network Symposium, Montpellier: "ITCH HYPERSENSITIVITY AND SOMATOSENSORY DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **March 2023** - YISS, IGF Montpellier: "PRIMARY SENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **Jan 2023** - EPNA Award special lecture, Eranet meeting, Madrid, Presenting <a href="https://www.science.org/doi/10.1126/sciadv.abo7566/">this paper</a>
         - **2022** - Spin-Days, Sète. Oral Presentation, ‘<b>The skin is the new brain</b>’
@@ -197,6 +198,7 @@ content:
   - title: Grants / Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
+        - **2023** - RFRD 2023 Symposium - Best Presentation Award.
         - **2023** - EPNA - ’Excellent Paper in Neuroscience Award’ from <a href="https://www.neuron-eranet.eu/joint-calls/epna/excellent-paper-in-neuroscience-award-2022/">neuron-eranet.eu</a>
          for our article in Science Advances: <a href="https://www.science.org/doi/10.1126/sciadv.abo7566/">paper Link</a>
         - **2021** - 1-year postdoc Founding, by the Lefoulon-Delalande foundation
