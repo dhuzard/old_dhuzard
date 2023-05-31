@@ -52,8 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
   social interactions, coping strategies which are linked to main physiological features, 
   such as cardiac regulation and sensory-processing.
   > I am an expert in <mark>behavioral experiments</mark> with rodents. <br>
-  > I know <mark>Python</mark> analysis tools: <mark>Numpy</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark> and <mark>Git</mark>
-  > I combine behavioral tests with <mark>physiological</mark> parameters, such as: <mark>ECG/HRV</mark> and <mark>Skin-Nerve</mark> recordings.
+  > I know <mark>Python</mark> analysis tools: <mark>Pandas</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark>, <mark>Seaborn</mark>, <mark>statsmodel</mark>, <mark>Dabest</mark>, <mark>ipywidget</mark> and <mark>Git</mark>. <br>
+  > I combine behavioral tests with <mark>physiological</mark> parameters, such as <mark>ECG/HRV</mark> and <mark>Skin-Nerve</mark> recordings. <br>
+  > My goal is to understand adaptation to environmental challenges as a global paradigm, from the sensory system to its central integration leading to behavioral control.
 
 content:
   - title: Lab Experience # Title for the section
