@@ -180,6 +180,7 @@ content:
   - title: Conferences / Scientific meetings
     layout: text
     content: | # this will include new lines to allow paragraphs
+        - **Mai 2023** - Neurofrance, Lyon, poster "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **March 2023** - French Pain Research Network Symposium, Montpellier: "ITCH HYPERSENSITIVITY AND SOMATOSENSORY DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **March 2023** - YISS, IGF Montpellier: "PRIMARY SENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **Jan 2023** - EPNA Award special lecture, Eranet meeting, Madrid, Presenting <a href="https://www.science.org/doi/10.1126/sciadv.abo7566/">this paper</a>
