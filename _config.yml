@@ -207,14 +207,23 @@ content:
         - **2020** - FENS attendance voucher
         - **2018** - FENS/IBRO Travel Grant
 
-  - title: Press / Populare science
+  - title: Press / Science Outreach
     layout: text
     content: | # this will include new lines to allow paragraphs
         - **Gehirn & Geist** Feb 2023, Die soziale Kraft der Berührung, <a href="https://www.spektrum.de/magazin/tastsinn-sensoren-foerdern-kontaktsuche/2104182">Article Link</a>
         - **Neurosapiens Podcast** Nov 2022, on Social contacts <a href="https://podcast.ausha.co/neurosapiens/47-celui-ou-on-parlait-de-la-puissance-du-contact-humain">audio link</a>
         - **Cerveaux et Psycho** Oct 2022, Le toucher fondement du lien social, <a href="https://www.cerveauetpsycho.fr/sd/neurosciences/le-toucher-fondement-du-lien-social-24335.php">online article link</a>
         - **Espiloon** 2021, Le pouvoir des Caresses, on issue N°147
-
+        
+  - title: Responsabilities
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        - 2023-Today, Member of the IGF lab council
+        - 2021-Today, President of a non-profit association (related to tattoo-art promotion)
+        - 2017-2018, Junior representative of the MATRICS FP7 european project (<a href="https://cordis.europa.eu/project/id/603016">Project description</a>).
+        - 2016-2018, Organizer of the EPFL-BMI happy hours
+        - 2013-2014, Member of the AESV association <a href="https://aesv-epfl.ch">website</a>
+        
   - title: Various Stuffs that keep my mind busy
     layout: text
     content: | # this will include new lines to allow paragraphs
