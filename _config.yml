@@ -62,9 +62,9 @@ content:
     
     content:
       - layout: left
-        title: Bourinet lab, <br> Inserm, IGF, <br> Montpellier, France
+        title: Bourinet and Francois labs (<a href="https://www.igf.cnrs.fr/index.php/fr/h-teams-fr/ht-francois-fr">Affective touch lab link</a>, <br> Uni Montpellier, Inserm, IGF <br> Montpellier, France
         link: https://www.igf.cnrs.fr/index.php/en/h-teams-en/ht-bourinet-en
-        link_text: lab website
+        link_text: bourinet lab website
         sub_title: "Postdoc #2"
         caption: July 2021 - present
         # quote: Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
