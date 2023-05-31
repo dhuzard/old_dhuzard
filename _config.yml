@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Damien Huzard
-title: Neuro-behaviorist, PhD
+title: Neuro-physio-behaviorist, PhD
 email: damien.huzard@igf.cnrs.fr
 website: https://dhuzard.owlstown.net/
 
@@ -218,7 +218,8 @@ content:
   - title: Responsabilities
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - 2023-Today, Member of the IGF lab council
+        - 2023-Today, Member of <a href="https://www.cost-teatime.org/">COST-TEATIME</a> (WG3 & 4): Improving biomedical research by automated behaviour monitoring in the animal home-cage
+        - 2022-Today, Member of the IGF lab council.
         - 2021-Today, President of a non-profit association (related to tattoo-art promotion)
         - 2017-2018, Junior representative of the MATRICS FP7 european project (<a href="https://cordis.europa.eu/project/id/603016">Project description</a>).
         - 2016-2018, Organizer of the EPFL-BMI happy hours
