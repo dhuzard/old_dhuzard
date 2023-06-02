@@ -224,6 +224,17 @@ content:
         - 2017-2018, Junior representative of the MATRICS FP7 european project (<a href="https://cordis.europa.eu/project/id/603016">Project description</a>).
         - 2016-2018, Organizer of the EPFL-BMI happy hours
         - 2013-2014, Member of the AESV association <a href="https://aesv-epfl.ch">website</a>
+         
+  - title: Students supervised
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        - 2022-2024, Paul Carrascosa (M2 + 1-year CDD) - Python development of LMT tools (ipywidget) - Creation of a user-friendly jupyter notebook for data visualisation and stats.
+        - 2023 (2 months), Mattéo Traissac (M1) - Python development of LMT tools.
+        - 2020 (6 months), Bérénice Pommier (M2) - Analysis of Social Fear Conditioning in Magel2/Cntnap2 mice models + Brain IHC (Covid period...)
+        - 2020 (6 months), ?? (IUT)  - Analysis of Social Fear Conditioning in Magel2/Cntnap2 mice models
+        - 2016, Astrid Nilsson (Bachelor)
+        - 2015, Ann-Rivière Warter Jouve (Bachelor) - Anxiety-like behavioral test on rats + statistical analysis
+        - 2015,  Hugo Moreno (Bachelor) - operant conditionng on rats + statistical analysis
         
   - title: Various Stuffs that keep my mind busy
     layout: text
@@ -235,12 +246,11 @@ content:
         <p style="text-align:center">
           <img src="/images/nervous.png " width="300" title="Some Art Stuff"/>
           <img src="/images/PA300431.JPG " width="300" title="Natural Light stuff"/> 
-          <img src="/images/Blablablax_mice_are_high_on_LSD_in_the_lab_Salvador_Dali_psyche_693c7f41-68f0-45d4-af40-988b205411ed.png" width="300" title="some AI stuff"/>
         </p>
         <p style="text-align:center">
           <img src="/images/Damien-LMT-1.jpg " width="500" title="some mice and computer stuff"/>
-          <img src="/images/Blablablax_mice_autism_sensory_system_social_deficits_science_l_26a6f1ce-0719-4825-a846-7b4df548f661.png " width="500" title="some more AI"/>
-          <a href="https://www.blaxtractattoos.com"><img src="/images/1h5mj1fg1kc7a0000000000 (2).jpg" width="350" alt="some tattoo stuff from www.blaxtractattoos.com."/></a>
+          <img src="/images/Blablablax_mice_autism_sensory_system_social_deficits_science_l_26a6f1ce-0719-4825-a846-7b4df548f661.png " width="500" title="some AI stuff"/>
+          <a href="https://www.blaxtractattoos.com"><img src="/images/1h5mj1fg1kc7a0000000000 (2).jpg" width="350" alt="some black abstract tattoos from www.blaxtractattoos.com."/></a>
         </p>
         
 # Footer
