@@ -47,35 +47,35 @@ orcid_username: 0000-0003-4820-7951
 # about_title: About Me
 about_profile_image: images/face-2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Damien, behavioral neuroscientist or <b>neuro-behaviorist</b>, sounds fancier.... > I like doing and trying stuff.
+  Hi, I'm Damien, behavioral scientist or <b>"neuro-physio-behaviorist"</b>.... > I like doing and trying stuff, mostly science related.
   My main research interests are gravitating around the concept of Adaptation, Stress, 
   social interactions, coping strategies which are linked to main physiological features, 
-  such as cardiac regulation and sensory-processing.
+  such as cardiac regulation and sensory-processing. Now I am focusing on analysing the skin as one of the first interface linking environnement and behavioral adaptation.
   > I am an expert in <mark>behavioral experiments</mark> with rodents. <br>
   > I know <mark>Python</mark> analysis tools: <mark>Pandas</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark>, <mark>Seaborn</mark>, <mark>statsmodel</mark>, <mark>Dabest</mark>, <mark>ipywidget</mark> and <mark>Git</mark>. <br>
   > I combine behavioral tests with <mark>physiological</mark> parameters, such as <mark>ECG/HRV</mark> and <mark>Skin-Nerve</mark> recordings. <br>
   > My goal is to understand adaptation to environmental challenges as a global paradigm, from the sensory system to its central integration leading to behavioral control.
 
 content:
-  - title: Lab Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    
+  - title: Lab Experience # section Title
+    layout: list # content Type (list/text) 
     content:
       - layout: left
-        title: Bourinet and Francois labs (<a href="https://www.igf.cnrs.fr/index.php/fr/h-teams-fr/ht-francois-fr">Affective touch lab link</a>, <br> Uni Montpellier, Inserm, IGF <br> Montpellier, France
+        title: E. Bourinet and A. Francois labs (<a href="https://www.igf.cnrs.fr/index.php/fr/h-teams-fr/ht-francois-fr">Affective touch lab link</a>, <br> Uni Montpellier, Inserm, IGF <br> Montpellier, France
         link: https://www.igf.cnrs.fr/index.php/en/h-teams-en/ht-bourinet-en
         link_text: bourinet lab website
         sub_title: "Postdoc #2"
-        caption: July 2021 - present
-        # quote: Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        caption: July 2021 - July 2024
+        quote: What if the skin and somatosensory system were involved in social deficits of a mouse model of autism?
         description: | # this will include new lines to allow paragraphs
-            Studying the affects of Affective Touch on mice, along with Amaury François:
-            - Analyzing Shank3 mouse model of ASD:
+            Studying the affects of <mark>Affective Touch</mark> on mice:
+            - Analyzing a Shank3-KO mouse model of ASD:
                 > What if sensory deficits at the periphery may be related to reduced sociability ?
-                > Dysregulation of primary sensory neurons in the Shank3-KO mice.
+                > Dysregulation of primary somatosensory neurons.
             - Links with Heart rate variability features ?
             - Studying the emergence of social interest and its link with vagal components.
-            Technics used: Skin-Nerve recordings, Live Mouse Tracker (https://livemousetracker.org/), ECG recordings , behavioral screening...
+            - Studying the development of affective touch neurons (C-LTMRs) and their implication on the development of sociability.
+            Technics used: Skin-Nerve recordings, Live Mouse Tracker (https://livemousetracker.org/), ECG recordings (HRV analysis), behavioral phenotyping...
 
       - layout: right
         title: Jeanneteau lab, <br> Inserm, IGF, <br> Montpellier, France
@@ -200,8 +200,9 @@ content:
   - title: Grants / Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2023** - RFRD 2023 Symposium - Best Presentation Award.
-        - **2023** - EPNA - ’Excellent Paper in Neuroscience Award’ from <a href="https://www.neuron-eranet.eu/joint-calls/epna/excellent-paper-in-neuroscience-award-2022/">neuron-eranet.eu</a>
+        - **2023, June** - YISS, IGF - Best Speaker Award.
+        - **2023, March** - RFRD 2023 Symposium - Best Presentation Award.
+        - **2023, January** - EPNA - ’Excellent Paper in Neuroscience Award’ from <a href="https://www.neuron-eranet.eu/joint-calls/epna/excellent-paper-in-neuroscience-award-2022/">neuron-eranet.eu</a>
          for our article in Science Advances: <a href="https://www.science.org/doi/10.1126/sciadv.abo7566/">paper Link</a>
         - **2021** - 1-year postdoc Founding, by the Lefoulon-Delalande foundation
         - **2020** - FENS attendance voucher
