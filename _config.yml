@@ -219,12 +219,10 @@ content:
         - **Cerveaux et Psycho** Oct 2022, Le toucher fondement du lien social, <a href="https://www.cerveauetpsycho.fr/sd/neurosciences/le-toucher-fondement-du-lien-social-24335.php">online article link</a>
         - **Espiloon** 2021, Le pouvoir des Caresses, on issue N°147
         
-   - title: Collaborations / Future projects
+  - title: Collaborations / Future projects
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - Antoine Besnard
-        - 
-        
+        - Antoine Besnard: Testing somatosensory reaction (Von-Frey filaments)        
         
   - title: Responsabilities
     layout: text
