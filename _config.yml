@@ -181,7 +181,10 @@ content:
   - title: Conferences / Scientific meetings
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **Mai 2023** - Neurofrance, Lyon, poster "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
+        - **November 2023** - SFETD, Saint-Malo - <b>Oral presentation; 'Young Talent' invitation <\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
+        - **August 2023** - EBBS meeting, Amsterdam - <b>poster<\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
+        - **July 2023** - The Festival of Touch, IASAT, Marseille - <b>poster<\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
+        - **Mai 2023** - Neurofrance, Lyon, <b>poster<\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **March 2023** - French Pain Research Network Symposium, Montpellier: "ITCH HYPERSENSITIVITY AND SOMATOSENSORY DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **March 2023** - YISS, IGF Montpellier: "PRIMARY SENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **Jan 2023** - EPNA Award special lecture, Eranet meeting, Madrid, Presenting <a href="https://www.science.org/doi/10.1126/sciadv.abo7566/">this paper</a>
@@ -215,6 +218,13 @@ content:
         - **Neurosapiens Podcast** Nov 2022, on Social contacts <a href="https://podcast.ausha.co/neurosapiens/47-celui-ou-on-parlait-de-la-puissance-du-contact-humain">audio link</a>
         - **Cerveaux et Psycho** Oct 2022, Le toucher fondement du lien social, <a href="https://www.cerveauetpsycho.fr/sd/neurosciences/le-toucher-fondement-du-lien-social-24335.php">online article link</a>
         - **Espiloon** 2021, Le pouvoir des Caresses, on issue N°147
+        
+   - title: Collaborations / Future projects
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        - Antoine Besnard
+        - 
+        
         
   - title: Responsabilities
     layout: text
