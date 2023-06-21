@@ -182,7 +182,6 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         - **2023, Nov.** - SFETD, Saint-Malo - <b>Oral presentation; 'Young Talent' invitation <\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
-        - **2023, Aug.** - EBBS meeting, Amsterdam - <b>poster<\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **2023, July** - The Festival of Touch, IASAT, Marseille - <b>poster<\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **2023, May** - Neurofrance, Lyon, <b>poster<\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **2023, March** - French Pain Research Network Symposium, Montpellier: "ITCH HYPERSENSITIVITY AND SOMATOSENSORY DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
@@ -218,6 +217,11 @@ content:
         - **Neurosapiens Podcast** Nov 2022, on Social contacts <a href="https://podcast.ausha.co/neurosapiens/47-celui-ou-on-parlait-de-la-puissance-du-contact-humain">audio link</a>
         - **Cerveaux et Psycho** Oct 2022, Le toucher fondement du lien social, <a href="https://www.cerveauetpsycho.fr/sd/neurosciences/le-toucher-fondement-du-lien-social-24335.php">online article link</a>
         - **Espiloon** 2021, Le pouvoir des Caresses, on issue N°147
+
+  - title: Reviewing articles
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        - 2022 - Frontiers in Neuroscience
         
   - title: Collaborations / Future projects
     layout: text
