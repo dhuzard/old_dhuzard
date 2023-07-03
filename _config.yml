@@ -231,6 +231,7 @@ content:
   - title: Responsabilities
     layout: text
     content: | # this will include new lines to allow paragraphs
+        - 2023-Today, Moderator of <a href="https://www.thebehaviouralforum.org/">TheBehaviouralForum.org</a>
         - 2023-Today, Member of <a href="https://www.cost-teatime.org/">COST-TEATIME</a> (WG3 & 4): Improving biomedical research by automated behaviour monitoring in the animal home-cage
         - 2022-Today, Member of the IGF lab council.
         - 2021-Today, President of a non-profit association (related to tattoo-art promotion)
