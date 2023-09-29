@@ -178,7 +178,7 @@ content:
         Physiol Behav. 2015 Nov 1;151:238-45. doi: 10.1016/j.physbeh.2015.07.018. Epub 2015 Jul 26. PMID: 26220463.\
         <b>Huzard D</b>, Mumby DG, Sandi C, Poirier GL, van der Kooij MA.
 
-  - title: Conferences / Scientific meetings
+  - title: Conferences / Oral and poster presentations:
     layout: text
     content: | # this will include new lines to allow paragraphs
         - **2023, Nov.** - SFETD, Saint-Malo - <b>Oral presentation; 'Young Talent' invitation <\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
@@ -227,10 +227,12 @@ content:
     content: | # this will include new lines to allow paragraphs
         - 2022 - Frontiers in Neuroscience
         
-  - title: Collaborations / Future projects
+  - title: Collaborations
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - Antoine Besnard: Testing somatosensory reaction (Von-Frey filaments)        
+        - Lilian Basso (Toulouse): Analysis of inflammatory markers in the skin.
+        - Antoine Besnard (IGF): Testing somatosensory responses (Von-Frey filaments) in the context of avoidance in mice. 
+                           Testing active place avoidance (APA) of Shank3 mice. 
         
   - title: Responsabilities
     layout: text
@@ -238,7 +240,7 @@ content:
         - 2023-Today, Moderator of <a href="https://www.thebehaviouralforum.org/">TheBehaviouralForum.org</a>
         - 2023-Today, Member of <a href="https://www.cost-teatime.org/">COST-TEATIME</a> (WG3 & 4): Improving biomedical research by automated behaviour monitoring in the animal home-cage
         - 2022-Today, Member of the IGF lab council.
-        - 2021-Today, President of a non-profit association (related to tattoo-art promotion)
+        - 2021-Today, President of a non-profit association (related to abstract tattoo)
         - 2017-2018, Junior representative of the MATRICS FP7 european project (<a href="https://cordis.europa.eu/project/id/603016">Project description</a>).
         - 2016-2018, Organizer of the EPFL-BMI happy hours
         - 2013-2014, Member of the AESV association <a href="https://aesv-epfl.ch">website</a>
@@ -246,14 +248,16 @@ content:
   - title: Students supervised
     layout: text
     content: | # this will include new lines to allow paragraphs
+        - 2023-2024, Giulia (PhD student) - Behavior and Shank3 mouse model.
         - 2022-2024, Paul Carrascosa (M2 + 1-year CDD) - Python development of LMT tools (ipywidget) - Creation of a user-friendly jupyter notebook for data visualisation and stats.
+        - 2023 (2 months), Hasan Lamat (MD internship) - Training (PCRs, behavioral experiments and scoring analysis).
         - 2023 (2 months), Mattéo Traissac (M1) - Python development of LMT tools.
         - 2020 (6 months), Bérénice Pommier (M2) - Analysis of Social Fear Conditioning in Magel2/Cntnap2 mice models + Brain IHC (Covid period...)
-        - 2020 (6 months), ?? (IUT)  - Analysis of Social Fear Conditioning in Magel2/Cntnap2 mice models
+        - 2020 (6 months), Fanny Andreu (IUT)  - Analysis of Social Fear Conditioning in Magel2/Cntnap2 mice models
         - 2016, Astrid Nilsson (Bachelor)
         - 2016, Marie Abbet (Bachelor)
         - 2015, Ann-Rivière Warter Jouve (Bachelor) - Anxiety-like behavioral test on rats + statistical analysis
-        - 2015,  Hugo Moreno (Bachelor) - operant conditionng on rats + statistical analysis
+        - 2015, Hugo Moreno (Bachelor) - operant conditionng on rats + statistical analysis
         
   - title: Various Stuffs that keep my mind busy
     layout: text
