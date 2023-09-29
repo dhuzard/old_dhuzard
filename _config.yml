@@ -63,7 +63,7 @@ content:
       - layout: left
         title: Labs of E. Bourinet and A. Francois (<a href="https://www.igf.cnrs.fr/index.php/fr/h-teams-fr/ht-francois-fr">Affective touch lab link</a>, <br> Uni Montpellier, Inserm, IGF <br> Montpellier, France
               <p style="text-align:center">
-              <img src="/images/INSERM_Logo.png" height="50"/> 
+              <img src="/images/Inserm_Logo.png" height="50"/> 
               </p>
         link: https://www.igf.cnrs.fr/index.php/en/h-teams-en/ht-bourinet-en
         link_text: bourinet lab website
@@ -83,7 +83,7 @@ content:
       - layout: right
         title: Jeanneteau lab, <br> Inserm, IGF, <br> Montpellier, France
               <p style="text-align:center">
-              <img src="/images/INSERM_Logo.png" height="50"/> 
+              <img src="/images/Inserm_Logo.png" height="50"/> 
               </p>
         sub_title: "Postdoc #1"
         caption: Feb 2019 - Feb 2021
