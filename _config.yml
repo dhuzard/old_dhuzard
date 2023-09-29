@@ -61,7 +61,10 @@ content:
     layout: list # content Type (list/text) 
     content:
       - layout: left
-        title: E. Bourinet and A. Francois labs (<a href="https://www.igf.cnrs.fr/index.php/fr/h-teams-fr/ht-francois-fr">Affective touch lab link</a>, <br> Uni Montpellier, Inserm, IGF <br> Montpellier, France
+        title: Labs of E. Bourinet and A. Francois (<a href="https://www.igf.cnrs.fr/index.php/fr/h-teams-fr/ht-francois-fr">Affective touch lab link</a>, <br> Uni Montpellier, Inserm, IGF <br> Montpellier, France
+              <p style="text-align:center">
+              <img src="/images/INSERM_Logo.png" height="50"/> 
+              </p>
         link: https://www.igf.cnrs.fr/index.php/en/h-teams-en/ht-bourinet-en
         link_text: bourinet lab website
         sub_title: "Postdoc #2"
@@ -79,6 +82,9 @@ content:
 
       - layout: right
         title: Jeanneteau lab, <br> Inserm, IGF, <br> Montpellier, France
+              <p style="text-align:center">
+              <img src="/images/INSERM_Logo.png" height="50"/> 
+              </p>
         sub_title: "Postdoc #1"
         caption: Feb 2019 - Feb 2021
         #quote: >
@@ -92,6 +98,9 @@ content:
 
       - layout: left
         title: Sandi lab, EPFL, Switzerland
+              <p style="text-align:center">
+              <img src="/images/EPFL_Logo.png" height="50"/> 
+              </p>
         link: https://www.epfl.ch/labs/lgc/
         link_text: LGC lab
         sub_title: PhD candidate
@@ -109,9 +118,12 @@ content:
                 
       - layout: right
         title: Mumby lab, <br> Concordia University, <br> Montreal.
+              <p style="text-align:center">
+              <img src="/images/Concordia_Logo.svg.png" height="50"/> 
+              </p>
         link: https://www.concordia.ca/research/neuroscience.html
         link_text: CSBN website
-        sub_title: Master student
+        sub_title: Master project
         caption: July 2012 - October 2013
         quote: The effects of extrinsic stress on somatic markers and behavior are dependent on animal housing conditions, D. Huzard et al., Physiology and Behavior, 2015
         description: | # this will include new lines to allow paragraphs
@@ -124,6 +136,9 @@ content:
     content:
       - layout: top-middle
         title: EPFL, Lausanne, Switzerland
+              <p style="text-align:center">
+              <img src="/images/EPFL_Logo.png" height="50"/> 
+              </p>
         caption: September 2011 - September 2013
         sub_title: Master's degree in Neuroscience
         quote: 5.6/6
