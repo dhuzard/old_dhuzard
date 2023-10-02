@@ -246,8 +246,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         - Lilian Basso (Toulouse): Analysis of inflammatory markers in the skin.
-        - Antoine Besnard (IGF): Testing somatosensory responses (Von-Frey filaments) in the context of avoidance in mice. 
-                           Testing active place avoidance (APA) of Shank3 mice. 
+        - Antoine Besnard (IGF): Testing somatosensory responses (Von-Frey filaments) in the context of avoidance in mice. \
+        & Testing active place avoidance (APA) of Shank3 mice.
+        - Pascal Fossat & François Maingret (Bordeaux): in vivo Ephys on C-LTMRs.
+        - Emmanuel Valjent (IGF): screening social dynamics in LMT with Amphetamines.
         
   - title: Responsabilities
     layout: text
