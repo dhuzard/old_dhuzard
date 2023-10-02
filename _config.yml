@@ -263,7 +263,7 @@ content:
   - title: Students supervised
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - 2023-2024, Giulia (PhD student) - Behavior and Shank3 mouse model.
+        - 2023-2024, Giulia Oliva (PhD student) - Behavior and Shank3 mouse model.
         - 2022-2024, Paul Carrascosa (M2 + 1-year CDD) - Python development of LMT tools (ipywidget) - Creation of a user-friendly jupyter notebook for data visualisation and stats.
         - 2023 (2 months), Hasan Lamat (MD internship) - Training (PCRs, behavioral experiments and scoring analysis).
         - 2023 (2 months), Mattéo Traissac (M1) - Python development of LMT tools.
