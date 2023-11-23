@@ -47,14 +47,18 @@ orcid_username: 0000-0003-4820-7951
 # about_title: About Me
 about_profile_image: images/face-2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Damien, behavioral scientist or <b>"neuro-physio-behaviorist"</b>.... > I like doing and trying stuff, mostly science related.
-  My main research interests are gravitating around the concept of Adaptation, Stress, 
-  social interactions, coping strategies which are linked to main physiological features, 
-  such as cardiac regulation and sensory-processing. Now I am focusing on analysing the skin as one of the first interface linking environnement and behavioral adaptation.
-  > I am an expert in <mark>behavioral experiments</mark> with rodents. <br>
-  > I know <mark>Python</mark> analysis tools: <mark>Pandas</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark>, <mark>Seaborn</mark>, <mark>statsmodel</mark>, <mark>Dabest</mark>, <mark>ipywidget</mark> and <mark>Git</mark>. <br>
+  Hi, I'm Damien, behavioral scientist or <b> "neuro-physio-behaviorist" </b>.... <br> 
+  I like doing and trying stuff, mostly science related. <br>
+  My main research interests are gravitating around the concepts of Adaptation, Stress, coping strategies,
+  social interactions which are linked to main physiological features  
+  such as cardiac regulation and sensory-processing. <br>
+  I am an advocate for the biobehavioral phenotyping of animals models, pushing for a description over an interpretation of data! <br>
+  Now, I am focusing on analysing the skin as (one of) the first interface linking environnement and behavioral adaptation.
+  > I am an expert in <mark>behavior</mark>: experiments and analysis. <br>
+  > I know few <mark>Python</mark> analysis tools: <mark>Pandas</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark>, <mark>Seaborn</mark>, <mark>statsmodel</mark>, <mark>Dabest</mark>, <mark>ipywidget</mark> and <mark>Git</mark>. <br>
+  > I developped one python library (<mark> LMT-Widget-Tool </mark>) aimed at helping non-python-users to analyze <mark> live mouse tracker </mark> data. <br>
   > I combine behavioral tests with <mark>physiological</mark> parameters, such as <mark>ECG/HRV</mark> and <mark>Skin-Nerve</mark> recordings. <br>
-  > My goal is to understand adaptation to environmental challenges as a global paradigm, from the sensory system to its central integration leading to behavioral control.
+  My utlimate goal is to improve the way preclinical behavioral research could benefit clinical conditions.
 
 content:
   - title: Lab Experience # section Title
@@ -196,7 +200,7 @@ content:
   - title: Conferences / Oral and poster presentations
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2023, Nov.** - SFETD, Saint-Malo - <b>Oral presentation; 'Young Talent' invitation <\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
+        - **2023, Nov.** - SFETD, Saint-Malo - <b> Oral presentation <\b> in the 'Young Talents' session. "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **2023, July** - The Festival of Touch, IASAT, Marseille - <b>poster<\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **2023, May** - Neurofrance, Lyon, <b>poster<\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **2023, March** - French Pain Research Network Symposium, Montpellier: "ITCH HYPERSENSITIVITY AND SOMATOSENSORY DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
@@ -220,8 +224,8 @@ content:
   - title: Grants / Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2023, June** - YISS, IGF - Best Speaker Award.
-        - **2023, March** - RFRD 2023 Symposium - Best Presentation Award.
+        - **2023, June** - YISS, IGF - Best Speaker Award. 500€ => Cajal MABA Neurokit course.
+        - **2023, March** - RFRD 2023 Symposium - Best Presentation Award. => Invitation au congrès SFETD 2023. 
         - **2023, January** - EPNA - ’Excellent Paper in Neuroscience Award’ from <a href="https://www.neuron-eranet.eu/joint-calls/epna/excellent-paper-in-neuroscience-award-2022/">neuron-eranet.eu</a>
          for our article in Science Advances: <a href="https://www.science.org/doi/10.1126/sciadv.abo7566/">paper Link</a>
         - **2021** - 1-year postdoc Founding, by the Lefoulon-Delalande foundation
