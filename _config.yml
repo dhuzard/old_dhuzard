@@ -54,9 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
   such as cardiac regulation and sensory-processing. <br>
   I am an advocate for the biobehavioral phenotyping of animals models, pushing for a description over an interpretation of data! <br>
   Now, I am focusing on analysing the skin as (one of) the first interface linking environnement and behavioral adaptation.
-  > I am an expert in <mark>behavior</mark>: experiments and analysis. <br>
+  > I am an expert in <mark>behavior</mark>: protocols and analysis. I'm moderator of  <a href="https://www.thebehaviourforum.org/">TheBehaviourForum</a> <br>
   > I know few <mark>Python</mark> analysis tools: <mark>Pandas</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark>, <mark>Seaborn</mark>, <mark>statsmodel</mark>, <mark>Dabest</mark>, <mark>ipywidget</mark> and <mark>Git</mark>. <br>
-  > I developped one python library (<mark> LMT-Widget-Tool </mark>) aimed at helping non-python-users to analyze <mark> live mouse tracker </mark> data. <br>
+  > I developped one python library (<a href="https://pypi.org/project/LWTools/"><mark>LMT-Widget-Tool</mark></a>) aimed at helping non-python-users to analyze <mark> live mouse tracker </mark> data. <br>
   > I combine behavioral tests with <mark>physiological</mark> parameters, such as <mark>ECG/HRV</mark> and <mark>Skin-Nerve</mark> recordings. <br>
   My utlimate goal is to improve the way preclinical behavioral research could benefit clinical conditions.
 
