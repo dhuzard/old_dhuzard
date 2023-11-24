@@ -55,8 +55,8 @@ about_content: | # this will include new lines to allow paragraphs
   I am an advocate for the biobehavioral phenotyping of animals models, pushing for a description over an interpretation of data! <br>
   Now, I am focusing on analysing the skin as (one of) the first interface linking environnement and behavioral adaptation.
   > I am an expert in <mark>behavior</mark>: protocols and analysis. I'm moderator of  <a href="https://www.thebehaviourforum.org/">TheBehaviourForum</a> <br>
-  > I know few <mark>Python</mark> analysis tools: <mark>Pandas</mark>, <mark>Scipy</mark>, <mark>matplotlib</mark>, <mark>Seaborn</mark>, <mark>statsmodel</mark>, <mark>Dabest</mark>, <mark>ipywidget</mark> and <mark>Git</mark>. <br>
-  > I developped one python library (<a href="https://pypi.org/project/LWTools/"><mark>LMT-Widget-Tool</mark></a>) aimed at helping non-python-users to analyze <mark> live mouse tracker </mark> data. <br>
+  > I know few Python librairies: <mark>Pandas</mark>, <mark>Scipy</mark>, <mark>Seaborn</mark>, <mark>statsmodel</mark>, <mark>Dabest</mark>, <mark>ipywidget</mark> ...<br>
+  > I developped one python library (<a href="https://pypi.org/project/LWTools/"><mark>LMT-Widget-Tool</mark></a>) in order to helping non-python-experts to analyze <mark>live mouse tracker</mark> data. <br>
   > I combine behavioral tests with <mark>physiological</mark> parameters, such as <mark>ECG/HRV</mark> and <mark>Skin-Nerve</mark> recordings. <br>
   My utlimate goal is to improve the way preclinical behavioral research could benefit clinical conditions.
 
@@ -72,11 +72,11 @@ content:
         link: https://www.igf.cnrs.fr/index.php/en/h-teams-en/ht-bourinet-en
         link_text: bourinet lab website
         sub_title: "Postdoc #2"
-        caption: July 2021 - July 2024
+        caption: July 2021 - May 2024
         quote: What if the skin and somatosensory system were involved in social deficits of a mouse model of autism?
         description: | # this will include new lines to allow paragraphs
             Studying the affects of <mark>Affective Touch</mark> on mice:
-            - Analyzing a Shank3-KO mouse model of ASD:
+            - Analyzing a Shank3-KO mouse model of autism:
                 > What if sensory deficits at the periphery may be related to reduced sociability ?
                 > Dysregulation of primary somatosensory neurons.
             - Links with Heart rate variability features ?
