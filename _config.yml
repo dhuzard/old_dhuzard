@@ -5,7 +5,7 @@ url: "https://dhuzard.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g., /blog
 
 # Theme settings
-remote_theme: mmistakes/minimal-mistakes@v4.26.2
+remote_theme: mmistakes/minimal-mistakes@v3.1.45
 
 # Personal information
 author:
