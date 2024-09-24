@@ -1,15 +1,18 @@
 source "https://rubygems.org"
 
 # Specify GitHub Pages gem with the appropriate version
-gem "github-pages", "~> 232", group: :jekyll_plugins
+# gem "github-pages", "~> 232", group: :jekyll_plugins
+
+# Specify Jekyll version
+gem "jekyll", "~> 4.3.0"
 
 # Minimal Mistakes theme gem
 gem 'minimal-mistakes-jekyll', '~> 4.24'
 
 # Additional dependencies (if needed)
-# gem "jekyll-feed"
-# gem "jekyll-seo-tag"
-# gem "jekyll-sitemap"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
 
 # For custom Sass if using SCSS
 gem "sassc", "~> 2.0"
