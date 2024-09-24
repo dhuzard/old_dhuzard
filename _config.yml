@@ -5,7 +5,7 @@ url: "https://dhuzard.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g., /blog
 
 # Theme settings
-theme: "minimal-mistakes-jekyll" # Use the theme gem
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Personal information
 author:
@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Navigation
 header_navigation: "navigation"

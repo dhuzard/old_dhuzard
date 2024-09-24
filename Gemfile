@@ -9,7 +9,7 @@ gem "sassc", "~> 2.0"
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :jekyll_plugins do
-  gem 'minimal-mistakes-jekyll', '~> 4.26', '>= 4.26.2'
+  gem "jekyll-remote-theme"
   gem "jekyll-feed"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
