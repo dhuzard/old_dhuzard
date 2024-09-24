@@ -1,0 +1,83 @@
+# Site settings
+title: "Damien Huzard | Neuro-physio-behaviorist, PhD"
+description: "Personal website of Damien Huzard, showcasing CV, Blog, and Projects."
+url: "https://dhuzard.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g., /blog
+
+# Personal information
+author:
+  name: "Damien Huzard"
+  email: "damien.huzard@igf.cnrs.fr"
+  linkedin: "https://www.linkedin.com/in/dhuzard"
+  twitter: "https://twitter.com/DHuzard"
+  github: "https://github.com/dhuzard"
+  orcid: "https://orcid.org/0000-0003-4820-7951"
+
+# Repository
+repository: "dhuzard/dhuzard.github.io"
+
+# Favicon
+favicon: "images/favicon.ico"
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+paginate: 5
+paginate_path: "/page:num/"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+header:
+  logo:
+    text: "Damien Huzard"
+    image: "images/logo.png" # Optional: Add a custom logo
+  menu:
+    - title: "Home"
+      url: "/"
+      active: true
+    - title: "CV"
+      url: "/cv/"
+    - title: "Blog"
+      url: "/blog/"
+    - title: "Projects"
+      url: "/projects/"
+    - title: "Contact"
+      url: "/#contact"
+
+# Social Links
+social:
+  - icon: fab fa-twitter
+    link: "https://twitter.com/DHuzard"
+  - icon: fab fa-github
+    link: "https://github.com/dhuzard"
+  - icon: fab fa-linkedin
+    link: "https://www.linkedin.com/in/dhuzard/"
+  - icon: fab fa-orcid
+    link: "https://orcid.org/0000-0003-4820-7951"
+
+# Footer
+footer:
+  text: "© 2024 Damien Huzard. All rights reserved."
+
+# SEO Settings
+seo:
+  title: "Damien Huzard | Neuro-physio-behaviorist, PhD"
+  description: "Personal website of Damien Huzard, showcasing CV, Blog, and Projects in the field of neuro-physio-behaviorist studies."
+  url: "https://dhuzard.github.io"
+  author:
+    name: "Damien Huzard"
+    twitter: "DHuzard"
+    github: "dhuzard"
+    linkedin: "dhuzard"
+    orcid: "0000-0003-4820-7951"
+
+# Optional: Enable dark mode (will configure later)
+minimal_mistakes:
+  dark_mode: true
