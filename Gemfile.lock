@@ -109,11 +109,11 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  jekyll (~> 4.3.0)
+  jekyll (~> 4.2)
   jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
-  minimal-mistakes-jekyll (~> 4.24)
+  minimal-mistakes-jekyll (~> 4.26, >= 4.26.2)
   sassc (~> 2.0)
   tzinfo-data
 

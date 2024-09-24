@@ -4,10 +4,10 @@ source "https://rubygems.org"
 # gem "github-pages", "~> 232", group: :jekyll_plugins
 
 # Specify Jekyll version
-gem "jekyll", "~> 4.3.0"
+gem "jekyll", "~> 4.2"
 
 # Minimal Mistakes theme gem
-gem 'minimal-mistakes-jekyll', '~> 4.24'
+gem 'minimal-mistakes-jekyll', '~> 4.26', '>= 4.26.2'
 
 # Additional dependencies (if needed)
 gem "jekyll-feed"
