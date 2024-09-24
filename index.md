@@ -11,13 +11,20 @@ Hello! I'm **Damien Huzard**, a Neuro-physio-behaviorist with a passion for rese
 
 ## 📁 **Sections**
 
-- [Curriculum Vitae](/cv/)
-- [Blog](/blog/)
-- [Projects](/projects/)
-- [Contact](#contact)
+<div class="tabs">
+  <button class="tab-button active" data-tab="cv">CV</button>
+  <button class="tab-button" data-tab="blog">Blog</button>
+  <button class="tab-button" data-tab="projects">Projects</button>
+</div>
 
-## 📝 **Latest Blog Posts**
-
-{% for post in site.posts limit:3 %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+<div class="tab-content">
+  <div id="cv" class="tab-pane active">
+    {% include cv_summary.html %}
+  </div>
+  <div id="blog" class="tab-pane">
+    {% include blog_summary.html %}
+  </div>
+  <div id="projects" class="tab-pane">
+    {% include projects_summary.html %}
+  </div>
+</div>
