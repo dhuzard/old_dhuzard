@@ -1,7 +1,18 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes", "~> 4.24.0" # Ensure this matches the version you need
+# Specify GitHub Pages gem with the appropriate version
+gem "github-pages", "~> 232", group: :jekyll_plugins
+
+# Minimal Mistakes theme gem
+gem "minimal-mistakes-jekyll", "~> 4.24.0"
+
+# Additional dependencies (if needed)
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+
+# For custom Sass if using SCSS
+gem "sassc", "~> 2.0"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
