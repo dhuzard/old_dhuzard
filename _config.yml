@@ -61,6 +61,12 @@ about_content: | # this will include new lines to allow paragraphs
   My utlimate goal is to improve the way preclinical behavioral research could benefit clinical conditions.
 
 content:
+  - title: CV
+    url: /cv.html
+  - title: Blog
+    url: /blog.html
+  - title: Projects
+    url: /projects.html
   - title: Lab Experience # section Title
     layout: list # content Type (list/text) 
     content:
