@@ -4,6 +4,9 @@ description: "Personal website of Damien Huzard, showcasing CV, Blog, and Projec
 url: "https://dhuzard.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g., /blog
 
+# Theme settings
+remote_theme: mmistakes/minimal-mistakes@v4.34.0
+
 # Personal information
 author:
   name: "Damien Huzard"
