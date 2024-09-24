@@ -12,7 +12,7 @@ email: damien.huzard@igf.cnrs.fr
 website: https://dhuzard.owlstown.net/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # Social links
@@ -308,7 +308,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: mmistakes/minimal-mistakes@v4.34.0  # Use the latest stable version
 
 sass:
   sass_dir: _sass
