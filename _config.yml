@@ -17,15 +17,9 @@ darkmode: false
 # Social links
 # Social links
 twitter_username: DHuzard
-github_username:  dhuzard
-# dribbble_username:
-# facebook_username:
-# flickr_username:
-# instagram_username:
-linkedin_username: dhuzard
-# pinterest_username:
-# youtube_username:
-# googleplus_username:
+github_username:  DHuzard
+instagram_username: @blaxtractattoos
+linkedin_username: DHuzard
 orcid_username: 0000-0003-4820-7951
 
 # Additional icon links
@@ -47,7 +41,7 @@ orcid_username: 0000-0003-4820-7951
 # about_title: About Me
 about_profile_image: images/face-2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Damien, behavioral scientist or <b> "neuro-physio-behaviorist" </b>.... <br> 
+  Hi, I'm Damien, behavioral scientist or <b> "neuro-physio-behaviorist"</b>.... <br> 
   I like doing and trying stuff, mostly science related. <br>
   My main research interests are gravitating around the concepts of Adaptation, Stress, coping strategies,
   social interactions which are linked to main physiological features  
@@ -75,9 +69,9 @@ content:
               <p style="text-align:center">
               <img src="/images/Inserm_Logo.png" height="50"/> 
               </p>
-        link: https://www.igf.cnrs.fr/index.php/en/h-teams-en/ht-bourinet-en
-        link_text: bourinet lab website
-        sub_title: "Postdoc #2"
+        link: https://www.igf.cnrs.fr/index.php/fr/h-teams-fr/ht-francois-fr
+        link_text: François lab website
+        sub_title: "Senior Postdoc"
         caption: July 2021 - May 2024
         quote: What if the skin and somatosensory system were involved in social deficits of a mouse model of autism?
         description: | # this will include new lines to allow paragraphs
@@ -95,7 +89,7 @@ content:
               <p style="text-align:center">
               <img src="/images/Inserm_Logo.png" height="50"/> 
               </p>
-        sub_title: "Postdoc #1"
+        sub_title: "Postdoctoral Scientist"
         caption: Feb 2019 - Feb 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -212,9 +206,9 @@ content:
   - title: Conferences / Oral and poster presentations
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2023, Nov.** - SFETD, Saint-Malo - <b> Oral presentation <\b> in the 'Young Talents' session. "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
-        - **2023, July** - The Festival of Touch, IASAT, Marseille - <b>poster<\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
-        - **2023, May** - Neurofrance, Lyon, <b>poster<\b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
+        - **2023, Nov.** - SFETD, Saint-Malo - <b> Oral presentation </b> in the 'Young Talents' session. "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
+        - **2023, July** - The Festival of Touch, IASAT, Marseille - <b>poster</b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
+        - **2023, May** - Neurofrance, Lyon, <b>poster</b> "PRIMARY SOMATOSENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **2023, March** - French Pain Research Network Symposium, Montpellier: "ITCH HYPERSENSITIVITY AND SOMATOSENSORY DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **2023, March** - YISS, IGF Montpellier: "PRIMARY SENSORY NEURONS DYSFUNCTION IN A MOUSE MODEL OF AUTISM"
         - **2023, Jan.** - EPNA Award special lecture, Eranet meeting, Madrid, Presenting <a href="https://www.science.org/doi/10.1126/sciadv.abo7566/">this paper</a>
@@ -261,11 +255,11 @@ content:
   - title: Collaborations
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - Lilian Basso (Toulouse): Analysis of inflammatory markers in the skin.
-        - Antoine Besnard (IGF): Testing somatosensory responses (Von-Frey filaments) in the context of avoidance in mice. \
+        - <b> Lilian Basso </b> (Toulouse): Analysis of inflammatory markers in the skin.
+        - <b> Antoine Besnard </b> (IGF): Testing somatosensory responses (Von-Frey filaments) in the context of avoidance in mice. \
         & Testing active place avoidance (APA) of Shank3 mice.
-        - Pascal Fossat & François Maingret (Bordeaux): in vivo Ephys on C-LTMRs.
-        - Emmanuel Valjent (IGF): screening social dynamics in LMT with Amphetamines.
+        - <b> Pascal Fossat & François Maingret </b> (Bordeaux): in vivo Ephys on C-LTMRs.
+        - <b> Emmanuel Valjent </b> (IGF): screening social dynamics in LMT with Amphetamines.
         
   - title: Responsabilities
     layout: text
@@ -296,7 +290,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         <p style="text-align:center">
-          <img src="/images/blackhole.jpg " width="350" title="General Science Stuff"/>
+          <img src="/images/blackhole.jpg" width="350" title="General Science Stuff"/>
           <img src="/images/blob.jpg" width="350" title="Fun Science Stuff"/> 
         </p>
         <p style="text-align:center">
