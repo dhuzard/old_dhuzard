@@ -1,0 +1,50 @@
+/*
+ * Custom styles for Minimal Mistakes - Dark Mode
+ */
+
+/* Import Font Awesome for icons */
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css";
+
+/* Transition for smooth background and text color changes */
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body.dark-mode a {
+  color: #bb86fc;
+}
+
+/* Customize header for dark mode */
+body.dark-mode .site-header {
+  background-color: #1f1f1f;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer Styling */
+body.dark-mode .site-footer {
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+}
+
+/* Button Styling */
+button#dark-mode-toggle {
+  font-size: 1.2em;
+  padding: 0.5em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: inherit;
+}
+
+/* Links Hover Effect */
+a:hover {
+  text-decoration: underline;
+}
+
+/* Additional custom styles as needed */
