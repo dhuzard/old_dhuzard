@@ -32,5 +32,5 @@ sidebar:
 - **Techniques:** Skin-Nerve recordings, Live Mouse Tracker, ECG recordings (HRV analysis), behavioral phenotyping
 
 ## Contact
-- **Email:** [damien.huzard@igf.cnrs.fr](mailto:damien.huzard@igf.cnrs.fr)
+- **Email:** damien.huzard (at) gmail.com
 - **LinkedIn:** [dhuzard](https://www.linkedin.com/in/dhuzard/)
