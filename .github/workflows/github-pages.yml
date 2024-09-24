@@ -16,7 +16,8 @@ jobs:
       - name: Set Up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Specify a Ruby version compatible with your gems
+          ruby-version: '3.1' # Ensure compatibility with your gems
+          cache-bundle: true
 
       - name: Install Dependencies
         run: |
@@ -27,7 +28,7 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
