@@ -4,12 +4,12 @@ source "https://rubygems.org"
 gem "github-pages", "~> 232", group: :jekyll_plugins
 
 # Minimal Mistakes theme gem
-gem "minimal-mistakes-jekyll", "~> 4.24.0"
+gem 'minimal-mistakes-jekyll', '~> 4.24'
 
 # Additional dependencies (if needed)
-gem "jekyll-feed"
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
+# gem "jekyll-feed"
+# gem "jekyll-seo-tag"
+# gem "jekyll-sitemap"
 
 # For custom Sass if using SCSS
 gem "sassc", "~> 2.0"
@@ -18,4 +18,4 @@ gem "sassc", "~> 2.0"
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?

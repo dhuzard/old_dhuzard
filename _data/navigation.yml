@@ -1,0 +1,19 @@
+- title: "Home"
+  url: "/"
+  icon: "fas fa-home"
+
+- title: "CV"
+  url: "/cv/"
+  icon: "fas fa-file-alt"
+
+- title: "Blog"
+  url: "/blog/"
+  icon: "fas fa-blog"
+
+- title: "Projects"
+  url: "/projects/"
+  icon: "fas fa-project-diagram"
+
+- title: "Contact"
+  url: "/#contact"
+  icon: "fas fa-envelope"

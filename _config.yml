@@ -1,6 +1,6 @@
 # Site settings
 title: "Damien Huzard | Neuro-physio-behaviorist, PhD"
-description: "Personal website of Damien Huzard, showcasing CV, Blog, and Projects."
+description: "Personal website of Damien Huzard, showcasing my CV, some Blog posts and Projects."
 url: "https://dhuzard.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g., /blog
 
@@ -15,6 +15,7 @@ author:
   twitter: "https://twitter.com/DHuzard"
   github: "https://github.com/dhuzard"
   orcid: "https://orcid.org/0000-0003-4820-7951"
+  instagram: https://www.instagram.com/blaxtractattoos/
 
 # Repository
 repository: "dhuzard/dhuzard.github.io"
@@ -37,40 +38,11 @@ plugins:
   - jekyll-sitemap
 
 # Navigation
+header_navigation: "navigation"
 header:
   logo:
     text: "Damien Huzard"
     image: "images/logo.png" # Optional: Add a custom logo
-  menu:
-    - title: "Home"
-      url: "/"
-      active: true
-    - title: "CV"
-      url: "/cv/"
-    - title: "Blog"
-      url: "/blog/"
-    - title: "Projects"
-      url: "/projects/"
-    - title: "Contact"
-      url: "/#contact"
-
-  navigation:
-    - title: "Home"
-      url: "/"
-      active: true
-      icon: fas fa-home
-    - title: "CV"
-      url: "/cv/"
-      icon: fas fa-file-alt
-    - title: "Blog"
-      url: "/blog/"
-      icon: fas fa-blog
-    - title: "Projects"
-      url: "/projects/"
-      icon: fas fa-project-diagram
-    - title: "Contact"
-      url: "/#contact"
-      icon: fas fa-envelope
 
 # Social Links
 social:
@@ -82,6 +54,8 @@ social:
     link: "https://www.linkedin.com/in/dhuzard/"
   - icon: fab fa-orcid
     link: "https://orcid.org/0000-0003-4820-7951"
+  - icon: fab fa-instagram
+    link: "https://www.instagram.com/blaxtractattoos/"
 
 # Footer
 footer:
@@ -102,4 +76,5 @@ seo:
 # Optional: Enable dark mode (will configure later)
 minimal_mistakes:
   dark_mode: true
-  custom_css: "assets/css/custom.scss"
+  # custom_css: "assets/css/custom.scss"
+  enable_fontawesome: true
