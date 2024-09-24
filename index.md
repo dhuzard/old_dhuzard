@@ -12,9 +12,15 @@ Hello! I'm **Damien Huzard**, a Neuro-physio-behaviorist with a passion for rese
 ## 📁 **Sections**
 
 <div class="tabs">
-  <button class="tab-button active" data-tab="cv">CV</button>
-  <button class="tab-button" data-tab="blog">Blog</button>
-  <button class="tab-button" data-tab="projects">Projects</button>
+  <button class="tab-button active" data-tab="cv">
+    <i class="fas fa-file-alt"></i> CV
+  </button>
+  <button class="tab-button" data-tab="blog">
+    <i class="fas fa-blog"></i> Blog
+  </button>
+  <button class="tab-button" data-tab="projects">
+    <i class="fas fa-project-diagram"></i> Projects
+  </button>
 </div>
 
 <div class="tab-content">
@@ -28,3 +34,6 @@ Hello! I'm **Damien Huzard**, a Neuro-physio-behaviorist with a passion for rese
     {% include projects_summary.html %}
   </div>
 </div>
+
+<!-- Include Tabs JavaScript -->
+<script src="{{ "/assets/js/tabs.js" | relative_url }}"></script>
