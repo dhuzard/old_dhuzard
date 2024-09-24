@@ -5,7 +5,7 @@ url: "https://dhuzard.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g., /blog
 
 # Theme settings
-theme: "minimal-mistakes-jekyll"
+theme: "minimal-mistakes-jekyll" # Use the theme gem
 
 # Personal information
 author:
