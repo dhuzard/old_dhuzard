@@ -81,3 +81,4 @@ seo:
 # Optional: Enable dark mode (will configure later)
 minimal_mistakes:
   dark_mode: true
+  custom_css: "assets/css/custom.scss"
