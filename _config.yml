@@ -37,6 +37,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
 
 # Navigation
 header_navigation: "navigation"
