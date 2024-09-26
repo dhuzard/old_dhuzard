@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
+<body>
+
+  <!-- Site Header and Navigation -->
+  <header class="site-header">
+    <nav class="nav__inner">
+      <ul>
+        {% for link in site.header.nav %}
+          <li class="nav__item">
+            <a href="{{ link.url }}">{{ link.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main Content Area -->
+  <main class="site-content">
+    {{ content }}
+  </main>
+
+  <!-- Site Footer (Optional) -->
+  <footer class="site-footer">
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>

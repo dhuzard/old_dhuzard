@@ -5,7 +5,7 @@ url: "https://dhuzard.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g., /blog
 
 # Theme settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Personal information
 author:
@@ -20,8 +20,12 @@ author:
 # Repository
 repository: "dhuzard/dhuzard.github.io"
 
+# Pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
+
 # Favicon
-favicon: "/favicon.ico"
+favicon: "/images/favicon.ico"
 
 # Markdown settings
 markdown: kramdown

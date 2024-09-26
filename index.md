@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Welcome to Damien Huzard's Personal Website"
 description: "Explore my CV, Blog, and Projects in the field of neuro-physio-behaviorist studies."
 permalink: /
@@ -34,6 +34,26 @@ Hello! I'm **Damien Huzard**, a Neuro-physio-behaviorist with a passion for rese
     {% include projects_summary.html %}
   </div>
 </div>
+
+<!-- Display paginated posts -->
+{% if paginator %}
+  <div class="posts">
+    {% for post in paginator.posts %}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    {% endfor %}
+  </div>
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% endif %}
+  </div>
+{% endif %}
 
 <!-- Include Tabs JavaScript -->
 <script src="{{ "/assets/js/tabs.js" | relative_url }}"></script>
