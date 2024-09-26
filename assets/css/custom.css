@@ -1,0 +1,14 @@
+.nav__inner .nav__item a {
+    background-color: #007bff;  /* Blue background */
+    color: white;  /* White text */
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .nav__inner .nav__item a:hover {
+    background-color: #0056b3;  /* Darker blue on hover */
+  }
+  
