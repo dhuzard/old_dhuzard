@@ -16,7 +16,7 @@ jobs:
       - name: Set Up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2.2' # Ensure compatibility with your gems
+          ruby-version: '3.3.5' # Ensure compatibility with your gems
           cache-bundle: true
 
       - name: Install Dependencies

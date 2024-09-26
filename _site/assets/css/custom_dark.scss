@@ -77,9 +77,9 @@ a:hover {
   background-color: rgba(187, 134, 252, 0.1);
 }
 
-.tab-content {
-  /* Optional: Add padding or styles to the content area */
-}
+/* .tab-content {   
+  Optional: Add padding or styles to the content area 
+} */
 
 .tab-pane {
   display: none;
@@ -104,6 +104,20 @@ a:hover {
     border-bottom: none;
     border-left: 3px solid #bb86fc;
   }
+}
+
+.nav__inner .nav__item a {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.nav__inner .nav__item a:hover {
+  background-color: #0056b3;
 }
 
 /* Additional custom styles as needed */

@@ -1,18 +1,8 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2"
+gem "jekyll"
 
-# For custom Sass if using SCSS
-gem "sassc", "~> 2.0"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-group :jekyll_plugins do
-  gem "jekyll-remote-theme"
-  gem "jekyll-feed"
-  gem "jekyll-seo-tag"
-  gem "jekyll-sitemap"
-  gem "jekyll-include-cache"
-  gem "jekyll-paginate"
-end
+gem "jekyll-remote-theme", "~> 0.4.3"

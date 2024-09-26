@@ -1,11 +1,11 @@
 # Site settings
-title: "Damien Huzard | Neuro-physio-behaviorist, PhD"
+title: 'Damien Huzard, Neuro-physio-behaviorist, PhD'
 description: "Personal website of Damien Huzard, showcasing my CV, some Blog posts and Projects."
 url: "https://dhuzard.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g., /blog
 
 # Theme settings
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Personal information
 author:
@@ -21,7 +21,7 @@ author:
 repository: "dhuzard/dhuzard.github.io"
 
 # Favicon
-favicon: "images/favicon.ico"
+favicon: "/favicon.ico"
 
 # Markdown settings
 markdown: kramdown
@@ -33,19 +33,26 @@ paginate_path: "/page:num/"
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-remote-theme
   - jekyll-include-cache
-  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Navigation
-header_navigation: "navigation"
 header:
+  nav:
+    - title: "Home"
+      url: "/"
+    - title: "CV"
+      url: "/cv/"
+    - title: "Blog"
+      url: "/blog/"
+    - title: "Projects"
+      url: "/projects/"
   logo:
+    image: "images/logo2.png"
     text: "Damien Huzard"
-    image: "images/logo.png" # Optional: Add a custom logo
 
 # Social Links
 social:
@@ -76,8 +83,7 @@ seo:
     linkedin: "dhuzard"
     orcid: "0000-0003-4820-7951"
 
-# Optional: Enable dark mode (will configure later)
 minimal_mistakes:
-  dark_mode: true
-  # custom_css: "assets/css/custom.scss"
+# dark_mode: true
+#  custom_css: "assets/css/custom.scss"
   enable_fontawesome: true
